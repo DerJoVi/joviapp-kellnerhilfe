@@ -4,7 +4,7 @@ JoVi App Kellnerhilfe
 # Datenschutzerklärung – JoVi-App Kellnerhilfe
 
 **Stand: März 2026**
-**Version der App: 1.3.0**
+**Version der App: 1.3.3**
 
 ---
 
@@ -13,9 +13,9 @@ JoVi App Kellnerhilfe
 Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 **JoVi Labs**
-*(Bitte vollständige Anschrift und Kontaktdaten des Verantwortlichen einfügen)*
-
-E-Mail: *(Bitte E-Mail-Adresse einfügen)*
+*Johannes Vilsmeier*
+71384 Weinstadt
+developer.joviapp@gmail.com
 
 ---
 

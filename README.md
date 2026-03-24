@@ -233,10 +233,10 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, insbeso
 Bei Fragen zum Datenschutz oder zur Ausübung Ihrer Rechte wenden Sie sich bitte an:
 
 **JoVi Labs**
-*(Bitte vollständige Kontaktdaten einfügen)*
+JoVi Labs Johannes Vilsmeier 71384 Weinstadt 
 
-E-Mail: *(Bitte E-Mail-Adresse einfügen)*
+E-Mail: *developer.joviapp@gmail.com*
 
 ---
 
-*Diese Datenschutzerklärung bezieht sich auf Version 1.3.0 der JoVi-App Kellnerhilfe. Stand: März 2026.*
+*Diese Datenschutzerklärung bezieht sich auf Version 1.3.3 der JoVi-App Kellnerhilfe. Stand: März 2026.*

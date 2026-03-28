@@ -1,10 +1,7 @@
 # joviapp-kellnerhilfe
 JoVi App Kellnerhilfe
 [DATENSCHUTZERKLAERUNG.md](https://github.com/user-attachments/files/26197708/DATENSCHUTZERKLAERUNG.md)
-# Datenschutzerklärung – JoVi-App Kellnerhilfe
-
-**Stand: März 2026**
-**Version der App: 1.3.3**
+# Datenschutzerklärung – JoVi-App Kellnerhilfe (FREE Version, kostenlose Version)
 
 ---
 
@@ -43,7 +40,6 @@ Die folgenden Daten werden **ausschließlich lokal** auf Ihrem Gerät gespeicher
 | **Bestellungen** | Aktive Bestellungen pro Tischnummer mit Artikeln und Mengen | Hive-Datenbank (lokal) |
 | **Zahlungseinträge** | Abgerechnete Bestellungen mit Datum, Uhrzeit, Tischnummer, Betrag und optionaler Notiz | Hive-Datenbank (lokal) |
 | **App-Einstellungen** | Gewählte Sprache und Währung | SharedPreferences (lokal) |
-| **Fehlerprotokolle** | Technische Fehlermeldungen der App (max. 500 Einträge) | Hive-Datenbank (lokal) |
 
 ### 3.2 Keine personenbezogenen Daten
 
@@ -164,7 +160,6 @@ Exportierte .jovi-Dateien und PDF/HTML-Berichte werden **unverschlüsselt** gesp
 | Menüs | Bis zur Löschung durch den Nutzer |
 | Aktive Bestellungen | Bis zur Abrechnung oder manuellen Löschung |
 | Zahlungseinträge | Bis zur Löschung durch den Nutzer (tagesweise oder komplett) |
-| Fehlerprotokolle | Automatische Bereinigung ab 500 Einträgen (älteste werden gelöscht) |
 | App-Einstellungen | Bis zur Deinstallation der App |
 
 ### 8.2 Löschung

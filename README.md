@@ -72,7 +72,7 @@ Die App fordert folgende Geräteberechtigungen an – **nur bei Bedarf** und **n
 
 ### 4.2 Dateizugriff / Speicher
 
-- **Zweck:** Speichern und Laden von Menü-Dateien (.jovi-Format) sowie Export von Statistiken (PDF/HTML)
+- **Zweck:** Speichern und Laden von Menü-Dateien (.jovi-Format) sowie Export von Statistiken 
 - **Wann:** Nur wenn Sie die Import-/Export-Funktion aktiv nutzen
 - **Datenverarbeitung:** Es werden nur die von Ihnen gewählten Dateien gelesen oder geschrieben. Die App greift nicht eigenständig auf andere Dateien zu.
 - **Bibliothek:** `file_picker`, `path_provider`, `share_plus`
@@ -93,7 +93,7 @@ Folgende Funktionen ermöglichen einen **vom Nutzer aktiv ausgelösten** Datenau
 |----------|-------------|-------------------|
 | **Menü-Export (.jovi)** | Speichert ein Menü als Datei auf dem Gerät oder teilt es über andere Apps | Menüname, Artikelnamen, Preise, Kategorien |
 | **QR-Code-Sharing** | Generiert einen QR-Code mit Menüdaten zum Anzeigen/Teilen | Menüname, Artikelnamen, Preise, Kategorien (in kodierter Form) |
-| **Statistik-Export** | Exportiert Tagesabrechnungen als PDF oder HTML | Datum, Tischnummern, Beträge, Artikel, optionale Notizen |
+| **Statistik-Export** | Exportiert Tagesabrechnungen | Datum, Tischnummern, Beträge, Artikel, optionale Notizen |
 
 Hinweis: Bei Nutzung der Teilen-Funktion (Share) werden die Daten an die vom Nutzer gewählte Ziel-App übergeben (z. B. E-Mail, Messenger). Die Datenschutzbestimmungen der jeweiligen Ziel-App gelten ab diesem Zeitpunkt.
 
@@ -147,7 +147,7 @@ Die lokale Hive-Datenbank ist **nicht zusätzlich verschlüsselt**. Der Schutz d
 
 ### 7.3 Export-Dateien
 
-Exportierte .jovi-Dateien und PDF/HTML-Berichte werden **unverschlüsselt** gespeichert. Wenn diese Dateien sensible Preisinformationen enthalten, behandeln Sie sie entsprechend vertraulich.
+Exportierte .jovi-Dateien und Statistik-Berichte werden **unverschlüsselt** gespeichert. Wenn diese Dateien sensible Preisinformationen enthalten, behandeln Sie sie entsprechend vertraulich.
 
 ---
 
@@ -213,7 +213,7 @@ Wenn Sie die JoVi-App im gewerblichen Kontext einsetzen (z. B. als Kellner, Gast
 - **Sie sind selbst verantwortlich** für personenbezogene Daten, die Sie in Freitextfeldern der App eingeben.
 - Bei der Verwendung der **Export-Funktionen** (Teilen von Menüs, Statistik-Export) verlassen Daten das geschützte App-Verzeichnis. Stellen Sie sicher, dass der Empfänger vertrauenswürdig ist.
 - Wenn Sie die App im Rahmen Ihres Gewerbes nutzen und dabei personenbezogene Daten verarbeiten, können **eigene datenschutzrechtliche Pflichten** für Sie gelten (z. B. Verarbeitungsverzeichnis, Informationspflichten gegenüber Ihren Gästen).
-- Bewahren Sie exportierte Dateien (.jovi, PDF, HTML) gemäß den geltenden **Aufbewahrungsfristen** sicher auf.
+- Bewahren Sie exportierte Dateien gemäß den geltenden **Aufbewahrungsfristen** sicher auf.
 
 ---
 
@@ -228,10 +228,9 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, insbeso
 Bei Fragen zum Datenschutz oder zur Ausübung Ihrer Rechte wenden Sie sich bitte an:
 
 **JoVi Labs**
-JoVi Labs Johannes Vilsmeier 71384 Weinstadt 
+Johannes Vilsmeier 71384 Weinstadt 
 
 E-Mail: *developer.joviapp@gmail.com*
 
 ---
 
-*Diese Datenschutzerklärung bezieht sich auf Version 1.3.3 der JoVi-App Kellnerhilfe. Stand: März 2026.*

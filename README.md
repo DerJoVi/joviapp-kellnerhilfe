@@ -2,6 +2,8 @@
 JoVi App Kellnerhilfe
 [DATENSCHUTZERKLAERUNG.md](https://github.com/user-attachments/files/26197708/DATENSCHUTZERKLAERUNG.md)
 # Datenschutzerklärung – JoVi-App Kellnerhilfe (FREE Version, kostenlose Version)
+Android => https://play.google.com/store/apps/details?id=com.jovilabs2017.joviapp2_kellnerhilfe
+Apple => https://apps.apple.com/de/app/jovi-app-kellnerhilfe/id6761231111
 
 ---
 

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-10T01:00:00Z",
+  "updatedAt": "2026-05-10T12:00:00Z",
   "content": [
     {
       "type": "section_header",
       "order": 0,
-      "title_de": "TEST - Coming Soon - vielleicht ;-)",
+      "title_de": "Coming Soon - vielleicht ;-)",
       "title_en": "Coming Soon - maybe ;-)",
       "title_cs": "Již brzy - možná ;-)",
       "title_bg": "Очаквайте скоро - може би ;-)",
@@ -20,7 +20,7 @@
       "type": "coming_soon_item",
       "order": 1,
       "icon": "cloud_upload",
-      "title_de": "TEST2 - Cloud basierte Menüs mit teilen",
+      "title_de": "Cloud basierte Menüs mit teilen",
       "title_en": "Cloud-based menus with sharing",
       "title_cs": "Cloudová menu se sdílením",
       "title_bg": "Облачни менюта със споделяне",
@@ -47,7 +47,7 @@
       "type": "coming_soon_item",
       "order": 2,
       "icon": "favorite",
-      "title_de": "TEST3 - Likes vergeben",
+      "title_de": "Likes vergeben",
       "title_en": "Give likes",
       "title_cs": "Udělovat lajky",
       "title_bg": "Давай харесвания",
@@ -58,7 +58,7 @@
       "title_pl": "Przyznawanie polubień",
       "title_tr": "Beğeni ekle",
       "title_uk": "Ставити лайки",
-      "description_de": "TEST4 - Bewerte beliebte Menü-Kombinationen",
+      "description_de": "Bewerte beliebte Menü-Kombinationen",
       "description_en": "Rate popular menu combinations",
       "description_cs": "Hodnoť oblíbené kombinace menu",
       "description_bg": "Оценявай популярни комбинации от менюто",
@@ -180,6 +180,22 @@
       "title_pl": "Specjalne sztuczki & Funkcje",
       "title_tr": "Özel ipuçları & özellikler",
       "title_uk": "Спеціальні хитрощі & Функції"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 9,
+      "video_id": "KP_fYv77C4g",
+      "title_de": "JoVi App – kurze Demo",
+      "title_en": "JoVi App – quick demo",
+      "title_cs": "JoVi App – rychlá ukázka",
+      "title_bg": "JoVi App – кратко демо",
+      "title_es": "JoVi App – demostración rápida",
+      "title_fr": "JoVi App – démonstration rapide",
+      "title_hu": "JoVi App – gyors bemutató",
+      "title_it": "JoVi App – breve demo",
+      "title_pl": "JoVi App – szybka demonstracja",
+      "title_tr": "JoVi App – kısa demo",
+      "title_uk": "JoVi App – коротке демо"
     },
     {
       "type": "feature_card",

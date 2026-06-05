@@ -1,7 +1,7 @@
-# Terms of Use for the JoVi App
+﻿# Terms of Use for the JoVi App
 
 Legal version: 2026-05-11.de-en.v1
-Approved for app version: 2.1.1+261461412
+Approved for app version: 2.1.5+261560764
 
 Version date: 05.05.2026
 
@@ -10,7 +10,7 @@ Version date: 05.05.2026
 The provider of the JoVi App and contractual partner for paid services is:
 
 Johannes Vilsmeier  
-Blütenstr. 11  
+BlÃ¼tenstr. 11  
 71384 Weinstadt  
 Email: developer.joviapp@gmail.com
 
@@ -182,3 +182,5 @@ The law of the Federal Republic of Germany applies, excluding the UN Convention 
 If the user is a merchant, a legal entity under public law, or a special fund under public law, the place of jurisdiction is the provider's registered office, to the extent permitted by law.
 
 Should any provision of these Terms of Use be or become wholly or partially invalid, the validity of the remaining provisions shall remain unaffected.
+
+

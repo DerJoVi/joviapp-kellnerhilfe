@@ -1,7 +1,7 @@
-# Privacy Policy for the JoVi App
+﻿# Privacy Policy for the JoVi App
 
 Legal version: 2026-05-11.de-en.v1
-Approved for app version: 2.1.1+261461412
+Approved for app version: 2.1.5+261560764
 
 Version date: 05.05.2026
 
@@ -10,7 +10,7 @@ Version date: 05.05.2026
 The controller responsible for the processing of personal data within the meaning of the General Data Protection Regulation is:
 
 Johannes Vilsmeier  
-Blütenstr. 11  
+BlÃ¼tenstr. 11  
 71384 Weinstadt  
 Email: developer.joviapp@gmail.com  
 Privacy contact: developer.joviapp@gmail.com
@@ -239,3 +239,5 @@ We may adapt this Privacy Policy if app functions, services used, legal requirem
 Questions about data protection may be sent to:
 
 developer.joviapp@gmail.com
+
+

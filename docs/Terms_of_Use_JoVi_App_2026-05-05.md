@@ -10,8 +10,9 @@ Version date: 05.05.2026
 The provider of the JoVi App and contractual partner for paid services is:
 
 Johannes Vilsmeier  
-BlÃ¼tenstr. 11  
-71384 Weinstadt  
+Blütenstr. 11  
+71384 Weinstadt
+Germany
 Email: developer.joviapp@gmail.com
 
 ## 2. Scope

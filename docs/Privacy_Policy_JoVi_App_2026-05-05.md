@@ -10,8 +10,10 @@ Version date: 05.05.2026
 The controller responsible for the processing of personal data within the meaning of the General Data Protection Regulation is:
 
 Johannes Vilsmeier  
-BlÃ¼tenstr. 11  
-71384 Weinstadt  
+Blütenstr. 11  
+71384 Weinstadt
+Germany
+
 Email: developer.joviapp@gmail.com  
 Privacy contact: developer.joviapp@gmail.com
 

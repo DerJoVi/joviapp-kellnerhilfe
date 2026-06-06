@@ -1,5 +1,5 @@
 ﻿{
-  "updatedAt": "2026-06-06T13:02:42Z",
+  "updatedAt": "2026-06-06T13:04:19Z",
   "content": [
     {
       "type": "section_header",
@@ -126,6 +126,22 @@
       "title_pl": "Specjalne sztuczki & Funkcje",
       "title_tr": "Özel ipuçları & özellikler",
       "title_uk": "Спеціальні хитрощі & Функції"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 8,
+      "video_id": "NsEWJJNGewc",
+      "title_de": "JoVi-App Kellnerhilfe Version 2: Endlich Team Zusammenarbeit",
+      "title_en": "JoVi-App Waiter Helper Version 2: Finally Team Collaboration",
+      "title_cs": "JoVi-App Kellnerhilfe Verze 2: Konečně týmová spolupráce",
+      "title_bg": "JoVi-App Версия 2: Накрая екипна работа",
+      "title_es": "JoVi-App Versión 2: ¡Por fin trabajo en equipo!",
+      "title_fr": "JoVi-App Version 2 : Enfin la collaboration en équipe",
+      "title_hu": "JoVi-App 2. verzió: Végre csapatmunka",
+      "title_it": "JoVi-App Versione 2: Finalmente lavoro di squadra",
+      "title_pl": "JoVi-App Wersja 2: Nareszcie współpraca zespołowa",
+      "title_tr": "JoVi-App Sürüm 2: Artık Ekip İşbirliği",
+      "title_uk": "JoVi-App Версія 2: Нарешті командна робота"
     },
     {
       "type": "youtube_embedded",
@@ -370,22 +386,6 @@
       "details_pl": ["Przez kod QR: Zapisz obraz i udostępnij", "Skanuj kod QR: Menu importuje się automatycznie", "Przez dialog plików: Wybierz plik menu do udostępnienia", "Odbiorca importuje plik w \"Zarządzaniu menu\"", "Idealne do: Pomocy kolegom na innych festiwalach", "Proste udostępnianie standardowych menu"],
       "details_tr": ["QR kodu ile: Resmi kaydedin ve paylaşın", "QR kodu tara: Menü otomatik içe aktarılır", "Dosya iletişim kutusu ile: Paylaşmak için menü dosyasını seçin", "Alıcı \"Menü yönetimi\"nde dosyayı içe aktarır", "İdeal: Diğer şenliklerdeki meslektaşlara yardım", "Standart menülerin kolay senkronizasyonu"],
       "details_uk": ["Через QR-код: Зберегти зображення та поділитися", "Сканувати QR-код: Меню автоматично імпортується", "Через діалог файлів: Вибрати файл меню для надсилання", "Отримувач імпортує файл в \"Управлінні меню\"", "Ідеально для: Допомоги колегам на інших фестивалях", "Просте надсилання стандартних меню"]
-    },
-    {
-      "type": "youtube_embedded",
-      "order": 8,
-      "video_id": "NsEWJJNGewc",
-      "title_de": "JoVi-App Kellnerhilfe Version 2: Endlich Team Zusammenarbeit",
-      "title_en": "JoVi-App Waiter Helper Version 2: Finally Team Collaboration",
-      "title_cs": "JoVi-App Kellnerhilfe Verze 2: Konečně týmová spolupráce",
-      "title_bg": "JoVi-App Версия 2: Накрая екипна работа",
-      "title_es": "JoVi-App Versión 2: ¡Por fin trabajo en equipo!",
-      "title_fr": "JoVi-App Version 2 : Enfin la collaboration en équipe",
-      "title_hu": "JoVi-App 2. verzió: Végre csapatmunka",
-      "title_it": "JoVi-App Versione 2: Finalmente lavoro di squadra",
-      "title_pl": "JoVi-App Wersja 2: Nareszcie współpraca zespołowa",
-      "title_tr": "JoVi-App Sürüm 2: Artık Ekip İşbirliği",
-      "title_uk": "JoVi-App Версія 2: Нарешті командна робота"
     }
   ]
 }

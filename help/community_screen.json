@@ -1,5 +1,5 @@
 ﻿{
-  "updatedAt": "2026-06-06T13:01:05Z",
+  "updatedAt": "2026-06-06T13:02:42Z",
   "content": [
     {
       "type": "section_header",
@@ -373,7 +373,7 @@
     },
     {
       "type": "youtube_embedded",
-      "order": 17,
+      "order": 8,
       "video_id": "NsEWJJNGewc",
       "title_de": "JoVi-App Kellnerhilfe Version 2: Endlich Team Zusammenarbeit",
       "title_en": "JoVi-App Waiter Helper Version 2: Finally Team Collaboration",

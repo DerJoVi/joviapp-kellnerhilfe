@@ -5,5 +5,5 @@ title: Rechtstexte
 # Öffentliche Rechtstexte der JoVi-App
 
 - [Impressum](impressum.md)
-- [Datenschutz](datenschutz.md)
-- [AGB](agb.md)
+- [Datenschutz: Basis, Cloud, Pro](datenschutz.md)
+- [AGB: Basis, Cloud, Pro](agb.md)

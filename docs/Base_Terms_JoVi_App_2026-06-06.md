@@ -1,80 +1,58 @@
 ﻿# Terms of Use for the JoVi App
 
-Legal version: 2026-05-11.de-en.v1
+Legal version: 2026-06-06.base.v1
 Approved for app version: 2.1.6+261570919
 
-Version date: 05.05.2026
+Version date: 06.06.2026
 
 ## 1. Provider
 
-The provider of the JoVi App and contractual partner for paid services is:
+The provider of the JoVi App and contractual partner for base use is:
 
 Johannes Vilsmeier  
 Blütenstr. 11
 71384 Weinstadt  
 Email: developer.joviapp@gmail.com
-## 2. Scope
+## 2. Scope of These Base Terms
 
-These Terms of Use apply to the use of the JoVi App as well as to any paid Pro features offered within the app, unless mandatory statutory provisions or the terms of the relevant app store take precedence.
+These Base Terms apply to the general local use of the JoVi App without enabled cloud or Pro features. They cover in particular solo use on the end device, local data handling, and generally available export, open, share, help, and scan functions.
 
-If obtained through Google Play or the Apple App Store, the terms of use and payment conditions of the respective store provider also apply.
+Separate Cloud Terms additionally apply to sign-in, team synchronization, and server-supported collaboration. Separate Pro Terms additionally apply to paid Pro features and subscriptions.
 
-## 3. Services of the App
+## 3. Base Services of the App
 
-The JoVi App supports order handling, team coordination, and statistics workflows, especially in gastronomy, event, or club environments.
+The base use of the JoVi App supports local order, organization, and statistics workflows, especially in gastronomy, event, or club environments.
 
-Depending on the available feature set, the app may in particular provide the following services:
+Depending on the locally available feature set, the app may in particular provide the following services:
 
 - local management of menus, table orders, and payment data
+- local statistics and evaluations based on entered data
 - export, import, sharing, and opening of files
-- cloud-based team operation with user accounts, team management, and activity logs
-- statistics and team-related evaluations
-- paid Pro features via in-app subscriptions
+- QR-based or camera-supported scan functions
+- access to help, community, and legal-text content
 
 There is no claim to a specific feature set unless it has been expressly promised.
 
-## 4. Contract Formation for Paid Services
-
-If paid Pro subscriptions are offered within the app, the contract is concluded through the purchase process of the respective app store. In particular, the following are decisive:
-
-- the product description shown in the store
-- the displayed price
-- the selected duration or billing period
-- the payment and cancellation terms of the respective store
-
-According to the recognizable project status, the provider itself does not process full payment data such as credit card numbers or bank details.
-
-## 5. User Account and Access
-
-Certain cloud and Pro features require a login. The current code especially provides the following access options:
-
-- sign in with Google
-- sign in with Apple
-- anonymous sign in for certain usage scenarios
-
-You are obliged to protect your access data and devices against unauthorized access. You must not misuse your account or let third parties use it in a way that bypasses security, role, or rights concepts of the app.
-
-## 6. Permitted Use
+## 4. Permitted Use
 
 You may use the app only in compliance with statutory law and these Terms of Use. In particular, the following is prohibited:
 
 - use for unlawful purposes
-- bypassing protection, role, or authorization systems
+- bypassing technical protection measures
 - entering, processing, or distributing unlawful content
-- using the app in a manner that impairs services, infrastructure, or other users
-- abusive generation of requests, purchase receipts, or join requests
+- using the app in a manner that impairs the technical stability of the app or integrated services
 
-## 7. Blocking, Restriction, and Termination of Use
+## 5. Restriction and Termination of Use
 
 The provider is entitled to temporarily restrict, block, or extraordinarily terminate access to individual functions or to the app as a whole if there are concrete indications that users violate these Terms of Use, statutory law, rights of third parties, or security and protection mechanisms of the app.
 
-This applies in particular in the event of abusive use, manipulation attempts, unauthorized access attempts, circumvention of technical protection measures, unlawful content, or other actions that may impair the stability, security, or integrity of the app, the underlying services, or other users.
+This applies in particular in the event of abusive use, manipulation attempts, unauthorized access attempts, circumvention of technical protection measures, unlawful content, or other actions that may impair the stability, security, or integrity of the app or integrated services.
 
 If reasonable, the user will be informed before a permanent measure is taken. This does not apply if an immediate block or restriction is required for security reasons, to prevent abuse, to avoid damage, or to fulfill legal obligations.
 
 Statutory claims and the right to take further action remain unaffected.
 
-## 8. Responsibility for Content and Operational Use
+## 6. Responsibility for Content and Operational Use
 
 You are solely responsible for the content you enter, share, export, or otherwise process in the team context. This applies in particular to:
 
@@ -110,17 +88,7 @@ Unless expressly agreed otherwise in writing, the app is not a legally required,
 
 In particular, the provider does not owe any legal, tax, accounting, or regulatory suitability of the app or the content generated by it.
 
-## 10. Team Features and Automatic Lifecycles
-
-The current project status provides an automated server-side lifecycle for cloud-based teams. According to this, teams are generally automatically closed 42 days after creation and automatically deleted 30 days after closure.
-
-In the course of closure or deletion, open join requests may in particular be removed, membership statuses archived, and team data including substructures deleted on the server side.
-
-Deviations or delays may occur in individual cases, especially due to technical failures, maintenance, outages of external services, or later system changes.
-
-You are responsible for backing up or exporting relevant data in time if you need them over a longer period.
-
-## 11. Availability and Technical Requirements
+## 7. Availability and Technical Requirements
 
 The provider strives to ensure the app is available as uninterruptedly as possible. However, uninterrupted, error-free, and complete availability is not owed.
 
@@ -128,24 +96,22 @@ Use may in particular be impaired by:
 
 - maintenance and updates
 - failures of networks, end devices, or platform services
-- restrictions of Firebase, store, or third-party services
+- restrictions of platform or third-party services
 - security-related blocks or technical protection measures
 
-## 12. Prices, Terms, and Cancellation of Subscriptions
+## 8. External Content and Additional Features
 
-Prices, billing periods, trial phases, and renewal mechanisms for Pro subscriptions are determined by the respective store offer.
+The app may provide external content such as community texts, online legal texts, or embedded videos. Such external offerings may be subject to additional terms and privacy information of the respective third-party providers.
 
-Cancellation or management of an in-app subscription takes place through the user account of the respective store provider unless the store or statutory law provides otherwise.
+Cloud and Pro features are not governed by these Base Terms. If you activate such features, the corresponding separate terms additionally apply.
 
-If a subscription expires or is no longer validated as active, access to Pro features may be restricted.
-
-## 13. Intellectual Property and Rights of Use
+## 9. Intellectual Property and Rights of Use
 
 Unless otherwise indicated, all rights to the app, the software, the design, the texts, and other components remain with the provider or the respective rights holders.
 
 By providing the app, you are granted a simple, non-transferable, revocable right to use it for its intended purpose within the framework of these Terms of Use.
 
-## 14. Liability
+## 10. Liability
 
 The provider is liable without limitation:
 
@@ -159,11 +125,11 @@ To the extent permitted by law, the provider is not liable for damages, conseque
 
 You are responsible for regularly backing up important data. The provider is only liable for data loss within the framework of the liability rules set out above.
 
-## 15. Privacy
+## 11. Privacy
 
 Information on the processing of personal data can be found in the separate Privacy Policy of the JoVi App.
 
-## 16. Changes to These Terms of Use
+## 12. Changes to These Base Terms
 
 The provider may amend these Terms of Use for the future if factual reasons require it, in particular in the event of:
 
@@ -174,13 +140,14 @@ The provider may amend these Terms of Use for the future if factual reasons requ
 
 Users should be informed of material changes in an appropriate manner.
 
-## 17. Final Provisions
+## 13. Final Provisions
 
 The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods, unless mandatory consumer protection provisions provide otherwise.
 
 If the user is a merchant, a legal entity under public law, or a special fund under public law, the place of jurisdiction is the provider's registered office, to the extent permitted by law.
 
 Should any provision of these Terms of Use be or become wholly or partially invalid, the validity of the remaining provisions shall remain unaffected.
+
 
 
 

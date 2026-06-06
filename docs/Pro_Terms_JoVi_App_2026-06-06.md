@@ -6,16 +6,13 @@ Approved for app version: 2.1.6+261570919
 Version date: 06.06.2026
 
 ## 1. Purpose of These Pro Terms
-## 1. Purpose of These Pro Terms
-## 1. Purpose of These Pro Terms
-
-These Pro Terms apply in addition to the general Terms of Use of the JoVi App as soon as you purchase, activate, or restore paid Pro features or subscriptions. They govern the scope of services and the specific features of the paid offering.
-
 ## 2. Pro Services
 
 Depending on the offer, Pro features may include in particular:
 
 - access to paid additional features
+- team management, memberships, and team mode
+- shared menus, orders, activity logs, and team-related synchronization
 - enhanced team-related or statistical functions
 - recurring subscriptions with monthly or yearly duration
 - cross-device activation for the same eligible account where technically provided
@@ -28,7 +25,7 @@ The purchase of Pro subscriptions takes place via the respective app store or pl
 
 ## 4. Requirements and Activation
 
-Certain Pro features may require a user account or existing cloud consent. A Pro entitlement may technically depend on a purchase receipt, a specific account, or a verified entitlement.
+Pro features generally require a user account and existing cloud consent. A Pro entitlement may technically depend on a purchase receipt, a specific account, or a verified entitlement. Team and collaboration features are available only within the scope of an active and validly verified Pro entitlement.
 
 ## 5. Usage Limits and Misuse
 
@@ -47,9 +44,10 @@ The concrete scope of Pro features may change as part of further development. Fo
 
 ## 7. End of Pro Use
 
-The entitlement to use Pro features generally ends when the respective subscription expires or is effectively terminated, unless a different state is displayed for reasons of goodwill or technical processing. Statutory rights remain unaffected.
+The entitlement to use Pro features generally ends when the respective subscription expires or is effectively terminated, unless a different state is displayed for reasons of goodwill or technical processing. After the end of Pro use, team, synchronization, or other collaborative functions may in particular be blocked, restricted, or moved into a read-only or archive state. Statutory rights remain unaffected.
 
 ## 8. Relationship to the General Terms
 
 These Pro Terms specify the general Terms of Use for paid Pro features. Otherwise, the general Terms of Use of the JoVi App continue to apply.
+
 

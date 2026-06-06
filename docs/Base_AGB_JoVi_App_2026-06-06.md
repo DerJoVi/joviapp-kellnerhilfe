@@ -1,9 +1,9 @@
 ﻿# Allgemeine Geschäftsbedingungen für die JoVi-App
 
-Rechtsversion: 2026-05-11.de-en.v1
+Rechtsversion: 2026-06-06.base.v1
 Geprüft für App-Version: 2.1.6+261570919
 
-Stand: 05.05.2026
+Stand: 06.06.2026
 
 ## 1. Anbieter
 
@@ -13,80 +13,47 @@ Johannes Vilsmeier
 Blütenstr. 11
 71384 Weinstadt  
 E-Mail: developer.joviapp@gmail.com
-## 2. Geltungsbereich
+## 2. Geltungsbereich dieser Basis-AGB
 
-Diese AGB gelten für die Nutzung der JoVi-App sowie für etwaige innerhalb der App angebotene kostenpflichtige Pro-Funktionen, soweit nicht zwingende gesetzliche Vorschriften oder die Bedingungen des jeweiligen App-Stores vorrangig gelten.
+Diese Basis-AGB gelten für die allgemeine, lokale Nutzung der JoVi-App ohne aktivierte Cloud- oder Pro-Funktionen. Sie erfassen insbesondere den Solo-Betrieb auf dem Endgerät, lokale Datenhaltung sowie allgemein verfügbare Export-, Öffnen-, Teilen-, Hilfe- und Scan-Funktionen.
 
-Ergänzend gelten bei Bezug über Google Play oder den Apple App Store die Nutzungs- und Zahlungsbedingungen des jeweiligen Store-Anbieters.
+Für Cloud-Funktionen wie Anmeldung, Team-Synchronisierung und servergestützte Zusammenarbeit gelten zusätzlich separate Cloud-Nutzungsbedingungen. Für kostenpflichtige Pro-Funktionen und Abonnements gelten zusätzlich separate Pro-Nutzungsbedingungen.
 
-## 3. Leistungen der App
+## 3. Leistungen der Basisnutzung
 
-Die JoVi-App dient der Unterstützung von Bestell-, Team- und Statistikabläufen, insbesondere im Gastronomie-, Veranstaltungs- oder Vereinsumfeld.
+Die Basisnutzung der JoVi-App dient der Unterstützung lokaler Bestell-, Organisations- und Statistikabläufe, insbesondere im Gastronomie-, Veranstaltungs- oder Vereinsumfeld.
 
-Je nach Funktionsumfang kann die App insbesondere folgende Leistungen bereitstellen:
+Je nach lokal verfügbarem Funktionsumfang kann die App insbesondere folgende Leistungen bereitstellen:
 
 - lokale Verwaltung von Menüs, Tischbestellungen und Zahlungsdaten
+- lokale Statistiken und Auswertungen auf Grundlage der eingegebenen Daten
 - Export, Import, Teilen und Öffnen von Dateien
-- cloudgestützten Team-Betrieb mit Benutzerkonto, Teamverwaltung und Aktivitätsprotokollen
-- Statistiken und teambezogene Auswertungen
-- kostenpflichtige Pro-Funktionen über In-App-Abonnements
+- QR- oder kameragestützte Scan-Funktionen
+- Zugriff auf Hilfs-, Community- und Rechtstext-Inhalte
 
 Ein Anspruch auf einen bestimmten Funktionsumfang besteht nur, soweit dies ausdrücklich zugesichert wurde.
 
-## 4. Vertragsschluss bei kostenpflichtigen Leistungen
+## 4. Zulässige Nutzung
 
-Sofern innerhalb der App kostenpflichtige Pro-Abonnements angeboten werden, kommt der Vertrag über den Kaufprozess des jeweiligen App-Stores zustande. Maßgeblich sind insoweit insbesondere:
-
-- die im Store angezeigte Produktbeschreibung
-- der dort angezeigte Preis
-- die gewählte Laufzeit oder Abrechnungsperiode
-- die Zahlungs- und Kündigungsbedingungen des jeweiligen Stores
-
-Der Anbieter selbst verarbeitet nach dem erkennbaren Projektstand keine vollständigen Zahlungsdaten wie Kreditkartennummern oder Bankverbindungen.
-
-## 5. Benutzerkonto und Zugang
-
-Bestimmte Cloud- und Pro-Funktionen setzen eine Anmeldung voraus. Der aktuelle Code sieht insbesondere folgende Zugangsarten vor:
-
-- Anmeldung mit Google
-- Anmeldung mit Apple
-- anonyme Anmeldung für bestimmte Nutzungsszenarien
-
-Sie sind verpflichtet, Ihre Zugangsdaten und Ihre Geräte vor unbefugtem Zugriff zu schützen. Sie dürfen Ihr Konto nicht missbräuchlich verwenden oder Dritten in einer Weise überlassen, die Sicherheits- oder Rechtekonzepte der App umgeht.
-
-## 6. Zulässige Nutzung
-
-Sie dürfen die App nur im Rahmen der gesetzlichen Vorschriften und dieser AGB nutzen. Unzulässig ist insbesondere:
+Sie dürfen die App nur im Rahmen der gesetzlichen Vorschriften und dieser Basis-AGB nutzen. Unzulässig ist insbesondere:
 
 - die Nutzung zu rechtswidrigen Zwecken
-- das Umgehen von Schutz-, Rollen- oder Berechtigungssystemen
+- das Umgehen technischer Schutzmaßnahmen
 - die Eingabe, Verarbeitung oder Verbreitung rechtswidriger Inhalte
-- die Nutzung der App in einer Weise, die Dienste, Infrastruktur oder andere Nutzer beeinträchtigt
-- die missbräuchliche Erzeugung von Anfragen, Kaufbelegen oder Join-Requests
+- die Nutzung der App in einer Weise, die die technische Stabilität der App oder eingebundener Dienste beeinträchtigt
 
-## 7. Sperrung, Einschränkung und Beendigung der Nutzung
+## 5. Verantwortung für Inhalte und betriebliche Nutzung
 
-Der Anbieter ist berechtigt, den Zugang zu einzelnen Funktionen oder zur App insgesamt vorübergehend einzuschränken, zu sperren oder Nutzungsverhältnisse außerordentlich zu beenden, wenn konkrete Anhaltspunkte dafür bestehen, dass Nutzer gegen diese AGB, gegen gesetzliche Vorschriften, gegen Rechte Dritter oder gegen Sicherheits- und Schutzmechanismen der App verstoßen.
+Sie sind für die von Ihnen eingegebenen, geänderten, exportierten oder geteilten Inhalte selbst verantwortlich. Dies gilt insbesondere für:
 
-Dies gilt insbesondere bei missbräuchlicher Nutzung, Manipulationsversuchen, unbefugten Zugriffsversuchen, Umgehung technischer Schutzmaßnahmen, rechtswidrigen Inhalten oder sonstigen Handlungen, die die Stabilität, Sicherheit oder Integrität der App, der zugrunde liegenden Dienste oder anderer Nutzer beeinträchtigen können.
-
-Soweit zumutbar, wird der Nutzer vor einer dauerhaften Maßnahme informiert. Dies gilt nicht, wenn eine sofortige Sperrung oder Einschränkung aus Sicherheitsgründen, zur Missbrauchsabwehr, zur Vermeidung von Schäden oder zur Erfüllung rechtlicher Pflichten erforderlich ist.
-
-Gesetzliche Ansprüche und das Recht zur Geltendmachung weiterer Maßnahmen bleiben unberührt.
-
-## 8. Verantwortung für Inhalte und betriebliche Nutzung
-
-Sie sind für die von Ihnen eingegebenen, geteilten, exportierten oder im Team-Kontext verarbeiteten Inhalte selbst verantwortlich. Dies gilt insbesondere für:
-
-- Teamnamen
-- Anzeigenamen und Initialen
+- Menüinhalte
 - Bestell- und Zahlungsdaten
 - Notizen und sonstige Freitextangaben
 - exportierte oder geteilte Dateien
 
 Wenn Sie die App in einem Betrieb, Verein oder einer sonstigen Organisation einsetzen, sind Sie selbst dafür verantwortlich, dass die Nutzung in Ihrem Verantwortungsbereich rechtlich zulässig erfolgt. Dies betrifft insbesondere Datenschutz-, Arbeits-, Steuer-, Buchführungs- oder Aufbewahrungspflichten.
 
-## 9. Nutzereingaben, Statistiken, Exporte und generierte Inhalte
+## 6. Nutzereingaben, Statistiken, Exporte und generierte Inhalte
 
 Die App verarbeitet, speichert, visualisiert und exportiert ausschließlich solche Daten, die von Nutzern in die App eingegeben, importiert, bestätigt, geändert oder sonst innerhalb der App verarbeitet werden. Der Anbieter übernimmt keine Gewähr und keine Garantie dafür, dass die von Nutzern erfassten oder innerhalb der App verarbeiteten Daten richtig, vollständig, wahrheitsgemäß, aktuell oder frei von Widersprüchen sind.
 
@@ -110,17 +77,7 @@ Die App ist, sofern nicht ausdrücklich schriftlich anders vereinbart, kein gese
 
 Der Anbieter schuldet insbesondere keine rechtliche, steuerliche, buchhalterische oder regulatorische Eignung der App oder der durch sie erzeugten Inhalte.
 
-## 10. Team-Funktionen und automatische Lebenszyklen
-
-Der aktuelle Projektstand sieht für cloudbasierte Teams einen automatisierten serverseitigen Lebenszyklus vor. Danach werden Teams grundsätzlich nach 42 Tagen seit Erstellung automatisch geschlossen und 30 Tage nach der Schließung automatisch gelöscht.
-
-Im Zuge der Schließung oder Löschung können insbesondere offene Join-Requests entfernt, Mitgliedschaftsstatus archiviert und Teamdaten einschließlich Unterstrukturen serverseitig gelöscht werden.
-
-Abweichungen oder Verzögerungen können sich im Einzelfall insbesondere durch technische Störungen, Wartung, externe Dienstausfälle oder spätere Systemänderungen ergeben.
-
-Sie sind dafür verantwortlich, relevante Daten rechtzeitig zu sichern oder zu exportieren, wenn Sie diese über längere Zeit benötigen.
-
-## 11. Verfügbarkeit und technische Voraussetzungen
+## 7. Verfügbarkeit und technische Voraussetzungen
 
 Der Anbieter bemüht sich um eine möglichst unterbrechungsfreie Verfügbarkeit der App. Eine jederzeitige, fehlerfreie und vollständige Verfügbarkeit wird jedoch nicht geschuldet.
 
@@ -128,24 +85,22 @@ Die Nutzung kann insbesondere beeinträchtigt werden durch:
 
 - Wartung und Updates
 - Störungen von Netzwerken, Endgeräten oder Plattformdiensten
-- Einschränkungen von Firebase-, Store- oder Drittanbieterdiensten
+- Einschränkungen von Plattform- oder Drittanbieterdiensten
 - sicherheitsbedingte Sperren oder technische Schutzmaßnahmen
 
-## 12. Preise, Laufzeiten und Kündigung von Abonnements
+## 8. Externe Inhalte und Zusatzfunktionen
 
-Preise, Abrechnungszeiträume, Testphasen und Verlängerungsmechanismen für Pro-Abonnements ergeben sich aus dem jeweiligen Store-Angebot.
+Die App kann externe Inhalte wie Community-Texte, Online-Rechtstexte oder eingebettete Videos bereitstellen. Für solche externen Angebote können zusätzliche Bedingungen und Datenschutzinformationen der jeweiligen Drittanbieter gelten.
 
-Die Kündigung oder Verwaltung eines In-App-Abonnements erfolgt über das Benutzerkonto des jeweiligen Store-Anbieters, sofern nicht im Store oder gesetzlich etwas anderes bestimmt ist.
+Cloud- und Pro-Funktionen sind nicht Gegenstand dieser Basis-AGB. Wenn Sie solche Funktionen aktivieren, gelten ergänzend die jeweils dafür vorgesehenen separaten Nutzungsbedingungen.
 
-Soweit ein Abo abläuft oder nicht mehr als aktiv validiert wird, kann der Zugriff auf Pro-Funktionen eingeschränkt werden.
-
-## 13. Geistiges Eigentum und Nutzungsrechte
+## 9. Geistiges Eigentum und Nutzungsrechte
 
 Soweit nicht anders gekennzeichnet, verbleiben alle Rechte an der App, der Software, dem Design, den Texten und sonstigen Bestandteilen beim Anbieter oder den jeweiligen Rechteinhabern.
 
 Mit der Bereitstellung der App wird Ihnen ein einfaches, nicht übertragbares, widerrufliches Nutzungsrecht für die bestimmungsgemäße Nutzung im Rahmen dieser AGB eingeräumt.
 
-## 14. Haftung
+## 10. Haftung
 
 Der Anbieter haftet unbeschränkt:
 
@@ -159,11 +114,11 @@ Soweit gesetzlich zulässig, haftet der Anbieter nicht für Schäden, Folgeschä
 
 Sie sind selbst dafür verantwortlich, wichtige Daten regelmäßig zu sichern. Für Datenverluste haftet der Anbieter nur im Rahmen der vorstehenden Haftungsregeln.
 
-## 15. Datenschutz
+## 11. Datenschutz
 
 Informationen zur Verarbeitung personenbezogener Daten finden Sie in der gesonderten Datenschutzerklärung der JoVi-App.
 
-## 16. Änderungen dieser AGB
+## 12. Änderungen dieser Basis-AGB
 
 Der Anbieter kann diese AGB mit Wirkung für die Zukunft anpassen, wenn sachliche Gründe dies erfordern, insbesondere bei:
 
@@ -174,13 +129,14 @@ Der Anbieter kann diese AGB mit Wirkung für die Zukunft anpassen, wenn sachlich
 
 Über wesentliche Änderungen sollen Nutzer in geeigneter Weise informiert werden.
 
-## 17. Schlussbestimmungen
+## 13. Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
 
 Ist der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist Gerichtsstand der Sitz des Anbieters, soweit gesetzlich zulässig.
 
 Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
 
 
 

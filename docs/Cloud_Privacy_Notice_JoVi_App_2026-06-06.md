@@ -6,30 +6,25 @@ Approved for app version: 2.1.6+261570919
 Version date: 06.06.2026
 
 ## 1. Purpose of This Cloud Privacy Notice
-## 1. Purpose of This Cloud Privacy Notice
-## 1. Purpose of This Cloud Privacy Notice
-
-This Cloud Privacy Notice supplements the general Privacy Policy of the JoVi App. It applies specifically to the processing of personal data triggered by sign-in, team features, and other cloud-supported workflows.
-
 ## 2. Categories of Processed Data
 
 When cloud features are used, the following data may in particular be processed:
 
 - authentication and account data such as UID, display name, email address, or profile image
-- team and membership data such as team name, roles, status, and join or leave timestamps
-- jointly edited order, menu, statistics, and activity data
-- technical logging and security data for stabilization and abuse prevention
-- metadata relating to team joins, invitations, join requests, and synchronization timestamps
+- basic user profile and status data such as account creation, latest activity, or linked platform
+- technical session, logging, and security data for stabilization and abuse prevention
+- metadata relating to sign-in, account assignment, recovery, or cross-device account use
 
 ## 3. Purposes of Processing
 
 Processing is carried out in particular in order to:
 
 - enable sign-in and cross-device use
-- manage teams, roles, and permissions
-- synchronize shared working states between members
-- keep activity and security events traceable
+- provide account-related app use through the same eligible user account
+- technically manage user accounts and keep their status up to date
+- keep sign-in, activity, and security events traceable
 - detect or limit abuse, technical errors, and unauthorized access
+- provide the account-related technical basis if you later choose to activate separate Pro features
 
 ## 4. Legal Bases
 
@@ -41,13 +36,14 @@ According to the current project status, Firebase services are used in particula
 
 ## 6. Storage Period
 
-Cloud-related data are stored only for as long as necessary for team features, security purposes, technical traceability, billing contexts, or legal obligations. Depending on team status, deletion concepts, and protection periods, team-related data may still be retained for a limited time.
+Cloud-related account data are stored only for as long as necessary for sign-in, account management, security purposes, technical traceability, or legal obligations. Separate team or Pro-related data are governed by the additionally applicable Pro Privacy Notice.
 
 ## 7. Voluntary Nature and Consequences of Non-Acceptance
 
-Use of cloud features is voluntary. If you do not accept this notice, the app remains available in local solo mode. However, cloud features such as sign-in, team synchronization, and server-supported collaboration are not available.
+Use of cloud features is voluntary. If you do not accept this notice, the app remains available in local solo mode. However, cloud features such as sign-in, account-related server-side processing, and account-linked use across multiple devices are not available.
 
 ## 8. Relationship to the General Privacy Policy
 
-This Cloud Privacy Notice specifies the general Privacy Policy for cloud use. For local offline features, the general Privacy Policy continues to apply primarily.
+This Cloud Privacy Notice specifies the general Privacy Policy for account-related cloud functions. For local offline features, the general Privacy Policy continues to apply primarily. Separately enabled team and Pro features are additionally governed by the Pro Privacy Notice.
+
 

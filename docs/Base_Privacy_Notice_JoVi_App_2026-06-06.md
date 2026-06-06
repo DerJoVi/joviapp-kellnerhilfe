@@ -1,9 +1,9 @@
 ﻿# Privacy Policy for the JoVi App
 
-Legal version: 2026-05-11.de-en.v1
+Legal version: 2026-06-06.base.v1
 Approved for app version: 2.1.6+261570919
 
-Version date: 05.05.2026
+Version date: 06.06.2026
 
 ## 1. Controller
 
@@ -14,18 +14,17 @@ Blütenstr. 11
 71384 Weinstadt  
 Email: developer.joviapp@gmail.com  
 Privacy contact: developer.joviapp@gmail.com
-## 2. Subject Matter of the App
+## 2. Subject Matter of This Base Privacy Policy
 
-The JoVi App is an app for order handling, team coordination, and statistics workflows in gastronomy, event, or club environments. According to the reviewed project status, there are in particular two usage modes:
+This Base Privacy Policy applies to the general local use of the JoVi App without enabled cloud or Pro features. It covers in particular local solo use on the end device as well as generally available export, scan, help, and content functions.
 
-- local solo mode with storage on the end device
-- cloud-supported team mode with sign-in, team management, shared orders, activity logs, statistics, and optional Pro subscriptions
+Separate Cloud Privacy Notices additionally apply to sign-in, team synchronization, and server-supported collaboration. Separate Pro Privacy Notices additionally apply to paid Pro features and subscriptions.
 
-## 3. Processed Data
+## 3. Processed Data in Base Use
 
 ### 3.1 Locally Stored Data
 
-In local operation, the app stores data especially using local app storage, Hive, and SharedPreferences. This may in particular include:
+In local base use, the app stores data especially using local app storage, Hive, and SharedPreferences. This may in particular include:
 
 - menus and menu items
 - table orders
@@ -33,92 +32,38 @@ In local operation, the app stores data especially using local app storage, Hive
 - table layout and table names
 - app settings, language, UI scaling, and other usage preferences
 - local markers, read states, and hidden states within the app
-- local history information regarding left teams
+- local history information within the app
 
-As a rule, these data remain on your end device unless you use cloud, export, or sharing functions.
+As a rule, these data remain on your end device as long as you do not activate separate cloud functions.
 
-### 3.2 Account and Sign-In Data
-
-When using cloud or Pro features, the app processes authentication and profile data through Firebase Authentication. Depending on the selected login method, the following may in particular be processed:
-
-- user ID (UID)
-- display name
-- email address
-- profile image URL
-- information on whether an account is used anonymously
-- timestamp of the most recent activity in Pro/cloud mode (for example latest sign-in)
-
-The current code provides logins via Google, Apple, and anonymous login for certain scenarios.
-
-### 3.3 Team and Collaboration Data
-
-In team mode, data are processed in Firebase Firestore. Depending on use, this may in particular include:
-
-- team name
-- admin ID
-- invitation or join code
-- team status and creation and closure timestamps
-- member data such as display name, initials, role, membership status, and join or leave timestamps
-- join requests with display name and request timestamp
-- shared menus
-- table orders
-- payment records
-- table configurations
-- activity and system logs with text, timestamp, sender name, sender ID, and metadata
-- derived daily snapshots for statistical purposes
-- membership entries under the respective user account
-
-If users enter personal data in free-text fields or team names, the app may also process such content.
-
-### 3.4 Subscription and Purchase Data
-
-When using paid Pro features, the app processes subscription-related data. According to the reviewed code, this may in particular include:
-
-- subscription product ID
-- purchase platform
-- purchase ID or transaction-related identifier
-- server-side validation data of the respective store purchase
-- validation status and validation timestamp
-- subscription expiration date
-- assignment of a purchase token to a user ID
-- Pro status of the user account
-
-The actual payment processing takes place through the respective app store. According to the recognizable project status, complete payment data such as credit card or bank details are not stored by the app itself.
-
-Independently of this, the app processes its own subscription-related evidence, verification, and status data insofar as this is necessary for the technical validation of a purchase, abuse prevention, assignment of a purchase to a user account, and enabling or restricting Pro features. This may in particular include purchase proofs submitted in Firestore, server-side validation results, token assignments, and Pro subscription status fields.
-
-According to the current technical implementation, these data categories are handled with different retention periods. Short-lived technical error and verification records for submitted purchase proofs are retained for a shorter period than successfully validated purchase proofs. Pure token mappings used to assign later store events to user accounts may be retained longer than the receipt records themselves.
-
-### 3.5 Export, Import, and Sharing Data
+### 3.2 Export, Import, and Sharing Data
 
 The app offers export, import, download, open, and share functions. In this context, the following may in particular be processed or transferred to targets selected by you:
 
 - menu files in `.jovi` format
 - CSV, HTML, and PDF exports
-- statistics files
-- contents from local or cloud-based data sets
+- statistics files from locally available data sets
 
 If you use a share, open, or save function, data are transferred to the target app, file storage, or system function selected by you. From that point on, their data protection conditions additionally apply.
 
-### 3.6 Camera and Scan Functions
+### 3.3 Camera and Scan Functions
 
-The current code uses a scanner function for QR-based or camera-supported processes. The camera is only used if you actively call the corresponding function.
+The app uses a scanner function for QR-based or camera-supported processes. The camera is only used if you actively call the corresponding function.
 
-### 3.7 Technical and Operational Data
+### 3.4 Technical and Operational Data
 
-To provide the app, technical metadata may also be processed, in particular:
+To provide the base functions, technical metadata may also be processed, in particular:
 
 - platform and operating system context
 - app version and build number
 - timestamps of processes
-- error and status information within app and cloud workflows
-- permission and security status for access to cloud data
+- error and status information within local app workflows
 
 According to the reviewed code, there is no separate use of advertising tracking, advertising SDKs, or classic user profiling.
 
-### 3.8 External Content and Embedded Services
+### 3.5 External Content and Embedded Services
 
-The app uses several services provided by GitHub, Inc. / Microsoft. The Community screen fetches its content (texts, cards, video IDs) from GitHub servers. The online versions of the legal documents (Terms of Use, Privacy Policy) are also hosted on GitHub Pages and can be opened via a button in the app. Every connection to GitHub servers technically involves the transmission of your device's IP address. All GitHub services used are operated by the same provider: GitHub, Inc. / Microsoft.
+The app uses several services provided by GitHub, Inc. / Microsoft. The Community screen fetches its content, such as texts, cards, and video IDs, from GitHub servers. The online versions of the legal documents can also be opened via GitHub Pages. Every connection to GitHub servers technically involves the transmission of your device's IP address.
 
 In the Community screen, YouTube videos are displayed as embedded players directly within the app. For this purpose, the package `youtube_player_flutter` is used, which internally loads a YouTube player via a WebView (`https://www.youtube.com/embed/...`). When the Community screen is opened and the relevant section becomes visible, the device automatically establishes a connection to Google/YouTube servers. The following may in particular be transmitted:
 
@@ -126,97 +71,67 @@ In the Community screen, YouTube videos are displayed as embedded players direct
 - device information and browser context of the embedded WebView
 - cookies or tracking identifiers from YouTube/Google if you are signed in to Google or Google cookies are present on your device
 
-This connection is established not only when you actively play a video, but already when the Community screen loads. The processing of data by Google and YouTube is governed by Google's privacy policy (https://policies.google.com/privacy).
+The processing of data by Google and YouTube is governed by Google's privacy policy (https://policies.google.com/privacy).
 
 ## 4. Purposes of Processing
 
-We process data in particular for the following purposes:
+In base use, we process data in particular for the following purposes:
 
-- providing the app functions
-- storing and synchronizing orders, menus, team data, and statistics
-- user sign-in and account management
-- team management and traceability of team activities
-- checking and enforcing permissions and security rules
-- processing and validation of Pro subscriptions
+- providing local app functions
+- local storage and display of menus, orders, payment data, and statistics
 - export, import, opening, and sharing of content at the user's request
+- providing scan and camera functions on user request
 - error analysis, abuse prevention, and technical stability
+- loading external community and legal-text content when you actively use those functions
 
 ## 5. Legal Bases
 
 Where the GDPR applies, we rely in particular on the following legal bases for processing:
 
-- Art. 6(1)(b) GDPR for providing app functions contractually requested or requested as part of pre-contractual measures
+- Art. 6(1)(b) GDPR for providing the base app functions you use
 - Art. 6(1)(f) GDPR for security, abuse prevention, stability, and administrative purposes
-- Art. 6(1)(a) GDPR where you voluntarily use functions such as external sharing, camera usage, or certain login procedures
+- Art. 6(1)(a) GDPR where you voluntarily use functions such as external sharing, camera usage, or embedded external content
 - Art. 6(1)(c) GDPR where legal retention or evidence obligations exist
-
-If a gastronomy business, club, event organizer, or other organization uses the app with its own employees, temporary staff, or team members, that organization may itself be wholly or partially responsible under data protection law for the specific contents entered.
-
-You may withdraw consent given at any time with effect for the future. The lawfulness of processing carried out until the withdrawal remains unaffected.
 
 ## 6. Recipients and Service Providers Used
 
-According to the reviewed code status, the following external services are particularly used or integrated:
+According to the reviewed code status, the following external services are particularly used or integrated in base use:
 
-- Firebase Authentication for login and user accounts
-- Cloud Firestore for team, order, statistics, and profile data
-- Firebase Cloud Functions for server-side logic, subscription validation, and data maintenance
-- Google Play or Apple App Store for in-app purchases and subscription processing
-- Google Sign-In and Sign in with Apple if those login paths are used
-- GitHub, Inc. / Microsoft for loading Community screen content and for hosting the online versions of the legal documents (GitHub Pages)
+- GitHub, Inc. / Microsoft for loading Community screen content and hosting online legal texts via GitHub Pages
 - YouTube / Google LLC for the embedded YouTube videos in the Community screen
 - system or third-party apps if export, open, or sharing functions are used
 
-If these providers process personal data in countries outside the European Union or the European Economic Area, transfers to third countries may occur. In such cases, we seek to ensure that appropriate safeguards pursuant to Art. 44 et seq. GDPR exist, in particular adequacy decisions, standard contractual clauses, or other legally recognized transfer mechanisms, insofar as they are provided by the respective provider.
-
-The concrete data processing by these providers is governed by their data protection information and contractual terms.
+If these providers process personal data in countries outside the European Union or the European Economic Area, transfers to third countries may occur. The concrete data processing by these providers is governed by their privacy information and contractual terms.
 
 ## 7. Storage Locations and Retention Periods
 
 ### 7.1 Local Data
 
-Locally stored data generally remain on your end device until you delete them in the app, uninstall the app, or reset the local storage.
+Locally stored data generally remain on your end device until you delete them in the app, uninstall the app, or reset local storage.
 
-### 7.2 Cloud Data for User Profiles and Team Operation
+### 7.2 External Transfers at Your Request
 
-Cloud data are stored as long as necessary for the respective purpose, in particular for the ongoing provision of team and Pro features.
+If you use export, open, or sharing functions, further retention after the transfer depends on the target app, file storage, or system function selected by you.
 
-In addition, the reviewed Functions code reveals the following automatically recognizable periods for team data:
+### 7.3 External Online Content
 
-- Teams are checked on the server side and automatically closed 42 days after creation.
-- Closed teams are recursively deleted 30 days after the closure timestamp.
-- Open join requests are deleted when a team closes.
-- Inactive members are limited on the server side; if a threshold is exceeded, older inactive member entries may be removed.
-
-In addition, user profiles (`/users/{uid}`) are deleted automatically on the server side if no activity has
-been detected for at least 12 months and no active Pro subscription exists. For expired subscriptions,
-an additional technical safety buffer of 7 days applies.
-
-### 7.3 Purchase and Validation Data
-
-Purchase and validation data are not stored uniformly, but according to their technical function:
-
-- failed or technically suspicious receipt records are generally stored for up to 90 days
-- successfully validated receipt records are generally stored for up to 180 days
-- technical token mappings used to assign later store events to user accounts are generally stored for up to 365 days
-
-These periods serve the technical validation of purchases, abuse prevention, assignment checks, handling of typical support cases, and the reliable processing of delayed store events. The decisive factor in each case is the technical necessity of the specific data type; data are not stored longer merely because the app store handled the payment.
-
-Where statutory retention obligations, ongoing disputes, or other overriding legitimate interests require longer storage, storage may exceed these periods in individual cases. Otherwise, such data should be deleted or, where practicable, anonymized after the relevant period expires.
+Where you open online legal texts, community content, or embedded videos, the retention period for the related connection and usage data depends on the respective external provider.
 
 ## 8. Security
 
-The reviewed project status uses the following protection mechanisms in particular:
-
-- authentication via Firebase Authentication
-- Firestore Security Rules to limit access to own or team-related data
-- server-side validation of subscription receipts
-- server-side role and status checks for team access
-- partial server-side control of privileged changes
-
-Please note that no electronic data transmission is completely secure. You should treat access data confidentially and use appropriate protective measures on end devices.
+The reviewed project status uses local storage mechanisms, app-internal state management, and platform-specific system protections in base use. Please note that no electronic data processing is completely secure. You should protect end devices appropriately and not share sensitive exports without safeguards.
 
 ## 9. Obligation to Provide Data
+
+Providing locally processed data is required for the respective function. Without entering menus, orders, or other content, certain functions cannot be used meaningfully.
+
+## 10. Your Rights
+
+Where the legal requirements are met, you in particular have the right to access, rectification, erasure, restriction of processing, data portability, and objection to certain processing. You also have the right to lodge a complaint with a data protection supervisory authority.
+
+## 11. Changes to This Base Privacy Policy
+
+This Base Privacy Policy may be amended for the future if factual reasons require it, especially due to changes in base functions, external integrations, or legal requirements.
 
 Certain data are required in order to use cloud, team, or Pro features. Without login, required profile data, or necessary team and purchase data, individual functions may be wholly or partially unavailable.
 
@@ -257,6 +172,7 @@ We may adapt this Privacy Policy if app functions, services used, legal requirem
 Questions about data protection may be sent to:
 
 developer.joviapp@gmail.com
+
 
 
 

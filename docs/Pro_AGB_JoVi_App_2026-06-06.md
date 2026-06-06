@@ -6,16 +6,13 @@ Geprüft für App-Version: 2.1.6+261570919
 Stand: 06.06.2026
 
 ## 1. Zweck dieser Pro-Nutzungsbedingungen
-## 1. Zweck dieser Pro-Nutzungsbedingungen
-## 1. Zweck dieser Pro-Nutzungsbedingungen
-
-Diese Pro-Nutzungsbedingungen gelten ergänzend zu den allgemeinen AGB der JoVi-App, sobald Sie kostenpflichtige Pro-Funktionen oder Abonnements erwerben, aktivieren oder wiederherstellen. Sie regeln den Leistungsumfang und die Besonderheiten des kostenpflichtigen Angebots.
-
 ## 2. Pro-Leistungen
 
 Pro-Funktionen können je nach Angebot insbesondere Folgendes umfassen:
 
 - Zugriff auf kostenpflichtige Zusatzfunktionen
+- Teamverwaltung, Mitgliedschaften und Team-Modus
+- gemeinsame Menüs, Bestellungen, Aktivitätsprotokolle und teambezogene Synchronisierung
 - erweiterte teambezogene oder statistische Funktionen
 - wiederkehrende Abonnements mit monatlicher oder jährlicher Laufzeit
 - geräteübergreifende Freischaltung desselben berechtigten Kontos, soweit technisch vorgesehen
@@ -28,7 +25,7 @@ Der Erwerb von Pro-Abonnements erfolgt über den jeweiligen App-Store oder die j
 
 ## 4. Voraussetzungen und Aktivierung
 
-Für bestimmte Pro-Funktionen kann ein Benutzerkonto oder eine bestehende Cloud-Zustimmung erforderlich sein. Eine Pro-Freischaltung kann technisch an einen Kaufbeleg, ein bestimmtes Konto oder eine verifizierte Berechtigung gebunden sein.
+Für Pro-Funktionen ist regelmäßig ein Benutzerkonto sowie eine bestehende Cloud-Zustimmung erforderlich. Eine Pro-Freischaltung kann technisch an einen Kaufbeleg, ein bestimmtes Konto oder eine verifizierte Berechtigung gebunden sein. Team- und Kollaborationsfunktionen stehen nur im Rahmen einer aktiven und gültig verifizierten Pro-Berechtigung zur Verfügung.
 
 ## 5. Nutzungsgrenzen und Missbrauch
 
@@ -47,9 +44,10 @@ Der konkrete Funktionsumfang von Pro kann sich im Rahmen der Weiterentwicklung �
 
 ## 7. Ende der Pro-Nutzung
 
-Die Berechtigung zur Nutzung von Pro-Funktionen endet grundsätzlich mit dem Ablauf oder der wirksamen Beendigung des jeweiligen Abonnements, soweit nicht aus Kulanz oder aus technischen Gründen ein anderer Zustand angezeigt wird. Gesetzliche Rechte bleiben unberührt.
+Die Berechtigung zur Nutzung von Pro-Funktionen endet grundsätzlich mit dem Ablauf oder der wirksamen Beendigung des jeweiligen Abonnements, soweit nicht aus Kulanz oder aus technischen Gründen ein anderer Zustand angezeigt wird. Nach Ende der Pro-Nutzung können insbesondere Team-, Synchronisations- oder sonstige kollaborative Funktionen gesperrt, eingeschränkt oder in einen reinen Lese- oder Archivzustand überführt werden. Gesetzliche Rechte bleiben unberührt.
 
 ## 8. Verhältnis zu den allgemeinen AGB
 
 Diese Pro-Nutzungsbedingungen konkretisieren die allgemeinen AGB für kostenpflichtige Pro-Funktionen. Im Übrigen gelten die allgemeinen AGB der JoVi-App fort.
+
 

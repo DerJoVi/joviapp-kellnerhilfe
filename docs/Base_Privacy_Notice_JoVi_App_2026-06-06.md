@@ -1,7 +1,7 @@
 ﻿# Privacy Policy for the JoVi App
 
 Legal version: 2026-06-06.base.v1
-Approved for app version: 2.1.6+261570919
+Approved for app version: 2.1.8+261601438
 
 Version date: 06.06.2026
 
@@ -18,7 +18,7 @@ Privacy contact: developer.joviapp@gmail.com
 
 This Base Privacy Policy applies to the general local use of the JoVi App without enabled cloud or Pro features. It covers in particular local solo use on the end device as well as generally available export, scan, help, and content functions.
 
-Separate Cloud Privacy Notices additionally apply to sign-in, team synchronization, and server-supported collaboration. Separate Pro Privacy Notices additionally apply to paid Pro features and subscriptions.
+Separate Cloud Privacy Notices additionally apply to cloud features such as sign-in. Separate Pro Privacy Notices additionally apply to paid Pro features and subscriptions such as team synchronization and server-supported collaboration. From a technical perspective, Pro features are always also cloud features.
 
 ## 3. Processed Data in Base Use
 
@@ -97,11 +97,11 @@ Where the GDPR applies, we rely in particular on the following legal bases for p
 
 According to the reviewed code status, the following external services are particularly used or integrated in base use:
 
-- GitHub, Inc. / Microsoft for loading Community screen content and hosting online legal texts via GitHub Pages
-- YouTube / Google LLC for the embedded YouTube videos in the Community screen
-- system or third-party apps if export, open, or sharing functions are used
+- GitHub, Inc. / Microsoft for loading Community screen content and for hosting and retrieving the online versions of the legal texts via GitHub Pages. In this context, the IP address, request time, requested content, and technical connection or app-context data may in particular be processed.
+- YouTube / Google LLC for the embedded YouTube videos in the Community screen. In this context, the IP address, device and WebView information, player usage data, and, where applicable, cookies or comparable identifiers may in particular be processed.
+- system or third-party apps as well as platform-specific file and sharing functions when export, open, save, or share functions are used. In this context, the files, file names, contents, and, where applicable, technical metadata selected by you are transferred to the destination chosen by you.
 
-If these providers process personal data in countries outside the European Union or the European Economic Area, transfers to third countries may occur. The concrete data processing by these providers is governed by their privacy information and contractual terms.
+Depending on the service accessed and the technical infrastructure, processing may also take place outside the European Union or the European Economic Area, in particular in the United States. The specific third-country processing is governed by the privacy information of the respective provider. Those notices may also contain further information on the transfer mechanisms used in each case, such as adequacy decisions or other appropriate safeguards.
 
 ## 7. Storage Locations and Retention Periods
 
@@ -125,16 +125,6 @@ The reviewed project status uses local storage mechanisms, app-internal state ma
 
 Providing locally processed data is required for the respective function. Without entering menus, orders, or other content, certain functions cannot be used meaningfully.
 
-## 10. Your Rights
-
-Where the legal requirements are met, you in particular have the right to access, rectification, erasure, restriction of processing, data portability, and objection to certain processing. You also have the right to lodge a complaint with a data protection supervisory authority.
-
-## 11. Changes to This Base Privacy Policy
-
-This Base Privacy Policy may be amended for the future if factual reasons require it, especially due to changes in base functions, external integrations, or legal requirements.
-
-Certain data are required in order to use cloud, team, or Pro features. Without login, required profile data, or necessary team and purchase data, individual functions may be wholly or partially unavailable.
-
 ## 10. Rights of Data Subjects
 
 Subject to the legal requirements, you have in particular the following rights:
@@ -150,11 +140,15 @@ Subject to the legal requirements, you have in particular the following rights:
 
 If you wish to exercise your rights, please use the privacy contact address stated above.
 
-## 11. No Automated Decision-Making
+## 11. Changes to This Base Privacy Policy
+
+This Base Privacy Policy may be amended for the future if factual reasons require it, especially due to changes in base functions, external integrations, or legal requirements.
+
+## 12. No Automated Decision-Making
 
 According to the currently reviewed project status, no automated decision-making including profiling within the meaning of Art. 22 GDPR takes place that produces legal effects concerning you or similarly significantly affects you.
 
-## 12. Notes for Commercial or Organizational Use
+## 13. Notes for Commercial or Organizational Use
 
 If you use the app in the context of a business, club, or other organization and enter personal data of employees, temporary staff, team members, guests, or other third parties, you may have your own data protection obligations. These may in particular include:
 
@@ -163,15 +157,26 @@ If you use the app in the context of a business, club, or other organization and
 - internal deletion and authorization concepts
 - contractual or organizational arrangements within the business where necessary
 
-## 13. Changes to This Privacy Policy
-
-We may adapt this Privacy Policy if app functions, services used, legal requirements, or data flows change. The current version should be made available in the app, in the store listing, or on an associated website.
-
 ## 14. Contact
 
 Questions about data protection may be sent to:
 
 developer.joviapp@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

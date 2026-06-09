@@ -1,7 +1,7 @@
 ﻿# Datenschutzerklärung für die JoVi-App
 
 Rechtsversion: 2026-06-06.base.v1
-Geprüft für App-Version: 2.1.6+261570919
+Geprüft für App-Version: 2.1.8+261601438
 
 Stand: 06.06.2026
 
@@ -18,7 +18,7 @@ Datenschutz-Kontakt: developer.joviapp@gmail.com
 
 Diese Basis-Datenschutzerklärung gilt für die allgemeine, lokale Nutzung der JoVi-App ohne aktivierte Cloud- oder Pro-Funktionen. Sie beschreibt insbesondere die Datenverarbeitung im Solo-Betrieb auf dem Endgerät sowie bei allgemein verfügbaren Hilfs-, Export-, Scan- und Inhaltsfunktionen.
 
-Für Cloud-Funktionen wie Anmeldung, Team-Synchronisierung und servergestützte Zusammenarbeit gelten zusätzlich die separaten Cloud-Datenschutzhinweise. Für kostenpflichtige Pro-Funktionen und Abonnements gelten zusätzlich die separaten Pro-Datenschutzhinweise.
+Für Cloud-Funktionen wie Anmeldung gelten zusätzlich separate Cloud-Datenschutzerklärungen. Für kostenpflichtige Pro-Funktionen und Abonnements wie etwa Team-Synchronisierung und servergestützte Zusammenarbeit gelten zusätzlich separate Pro-Datenschutzerklärungen. Pro-Funktionen sind technisch gesehen immer auch Cloud-Funktionen.
 
 ## 3. Verarbeitete Daten in der Basisnutzung
 
@@ -97,11 +97,11 @@ Soweit die DSGVO anwendbar ist, stützen wir die Verarbeitung insbesondere auf f
 
 In der Basisnutzung werden insbesondere folgende externe Dienste genutzt oder eingebunden:
 
-- GitHub, Inc. / Microsoft für das Laden von Community-Inhalten sowie für das Hosting der Online-Versionen der Rechtstexte (GitHub Pages)
-- YouTube / Google LLC für die eingebetteten YouTube-Videos im Community-Screen
-- System- oder Drittanbieter-Apps, wenn Export-, Öffnen- oder Teilen-Funktionen verwendet werden
+- GitHub, Inc. / Microsoft für das Laden von Community-Inhalten sowie für das Hosting und den Abruf der Online-Versionen der Rechtstexte über GitHub Pages. Dabei können insbesondere IP-Adresse, Zeitpunkt des Abrufs, angeforderte Inhalte sowie technische Verbindungs- oder App-Kontextdaten verarbeitet werden.
+- YouTube / Google LLC für die eingebetteten YouTube-Videos im Community-Screen. Dabei können insbesondere IP-Adresse, Geräte- und WebView-Informationen, Player-Nutzungsdaten sowie gegebenenfalls Cookies oder vergleichbare Kennungen verarbeitet werden.
+- System- oder Drittanbieter-Apps sowie plattformspezifische Datei- und Freigabefunktionen, wenn Export-, Öffnen-, Speichern- oder Teilen-Funktionen verwendet werden. Dabei werden die von Ihnen ausgewählten Dateien, Dateinamen, Inhalte und gegebenenfalls technische Metadaten an das von Ihnen gewählte Ziel übergeben.
 
-Soweit diese Anbieter personenbezogene Daten in Staaten außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums verarbeiten, kann eine Übermittlung in Drittstaaten stattfinden. Maßgeblich für die konkrete Datenverarbeitung durch diese Anbieter bleiben deren Datenschutzinformationen und Vertragsbedingungen.
+Je nach aufgerufenem Dienst und technischer Infrastruktur kann eine Verarbeitung auch außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums stattfinden, insbesondere in den USA. Maßgeblich für die konkrete Drittlandverarbeitung bleiben die Datenschutzinformationen des jeweiligen Anbieters. Dort finden sich auch weitergehende Angaben zu den jeweils verwendeten Übermittlungsgrundlagen, etwa zu Angemessenheitsbeschlüssen oder sonstigen geeigneten Garantien.
 
 ## 7. Speicherorte und Speicherdauer
 
@@ -125,16 +125,6 @@ Der geprüfte Projektstand verwendet in der Basisnutzung insbesondere lokale Spe
 
 Die Bereitstellung lokal verarbeiteter Daten ist für die Nutzung der jeweiligen Funktion erforderlich. Ohne Eingaben zu Menüs, Bestellungen oder sonstigen Inhalten können bestimmte Funktionen naturgemäß nicht sinnvoll genutzt werden.
 
-## 10. Ihre Rechte
-
-Soweit die gesetzlichen Voraussetzungen vorliegen, haben Sie insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit sowie Widerspruch gegen bestimmte Verarbeitungen. Außerdem haben Sie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
-
-## 11. Änderungen dieser Basis-Datenschutzerklärung
-
-Diese Basis-Datenschutzerklärung kann mit Wirkung für die Zukunft angepasst werden, wenn sachliche Gründe dies erfordern, insbesondere bei Änderungen der Basisfunktionen, externer Einbindungen oder rechtlicher Anforderungen.
-
-Bestimmte Daten sind erforderlich, damit Cloud-, Team- oder Pro-Funktionen genutzt werden können. Ohne Anmeldung, erforderliche Profildaten oder notwendige Team- und Kaufdaten können einzelne Funktionen ganz oder teilweise nicht bereitgestellt werden.
-
 ## 10. Rechte betroffener Personen
 
 Sie haben nach Maßgabe der gesetzlichen Voraussetzungen insbesondere folgende Rechte:
@@ -148,13 +138,19 @@ Sie haben nach Maßgabe der gesetzlichen Voraussetzungen insbesondere folgende R
 - Recht auf Widerruf einer Einwilligung mit Wirkung für die Zukunft
 - Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde nach Art. 77 DSGVO
 
-Wenn Sie Rechte geltend machen möchten, nutzen Sie bitte die oben genannte Datenschutz-Kontaktadresse.
+Wenn Sie Rechte geltend machen möchten, nutzen Sie bitte die genannte Datenschutz-Kontaktadresse.
 
-## 11. Keine automatisierte Entscheidungsfindung
+
+## 11. Änderungen dieser Basis-Datenschutzerklärung
+
+Diese Basis-Datenschutzerklärung kann mit Wirkung für die Zukunft angepasst werden, wenn sachliche Gründe dies erfordern, insbesondere bei Änderungen der Basisfunktionen, externer Einbindungen oder rechtlicher Anforderungen.
+
+
+## 12. Keine automatisierte Entscheidungsfindung
 
 Nach dem geprüften Projektstand findet keine automatisierte Entscheidungsfindung einschließlich Profiling im Sinne von Art. 22 DSGVO statt, die Ihnen gegenüber rechtliche Wirkung entfaltet oder Sie in ähnlicher Weise erheblich beeinträchtigt.
 
-## 12. Hinweise für gewerbliche oder organisatorische Nutzung
+## 13. Hinweise für gewerbliche oder organisatorische Nutzung
 
 Wenn Sie die App im Rahmen eines Betriebs, Vereins oder einer sonstigen Organisation einsetzen und dabei personenbezogene Daten von Mitarbeitern, Aushilfen, Teammitgliedern, Gästen oder sonstigen Dritten eintragen, können für Sie eigene datenschutzrechtliche Pflichten bestehen. Dazu können insbesondere gehören:
 
@@ -163,15 +159,26 @@ Wenn Sie die App im Rahmen eines Betriebs, Vereins oder einer sonstigen Organisa
 - interne Lösch- und Berechtigungskonzepte
 - gegebenenfalls vertragliche oder organisatorische Regelungen innerhalb des Betriebs
 
-## 13. Änderungen dieser Datenschutzerklärung
-
-Wir können diese Datenschutzerklärung anpassen, wenn sich App-Funktionen, eingesetzte Dienste, Rechtslagen oder Datenflüsse ändern. Die jeweils aktuelle Fassung sollte in der App, im Store-Listing oder auf einer zugehörigen Website bereitgestellt werden.
-
 ## 14. Kontakt
 
 Fragen zum Datenschutz können an folgende Adresse gerichtet werden:
 
 developer.joviapp@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

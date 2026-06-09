@@ -1,11 +1,13 @@
 ﻿# Cloud Privacy Notice for the JoVi App
 
 Legal version: 2026-06-06.cloud.v1
-Approved for app version: 2.1.6+261570919
+Approved for app version: 2.1.8+261601438
 
 Version date: 06.06.2026
 
 ## 1. Purpose of This Cloud Privacy Notice
+
+This Cloud Privacy Notice supplements the general Privacy Policy of the JoVi App for all account-related cloud features. It applies in particular to sign-in, account-related server-side processing, and cross-device use with the same eligible user account.
 ## 2. Categories of Processed Data
 
 When cloud features are used, the following data may in particular be processed:
@@ -28,11 +30,20 @@ Processing is carried out in particular in order to:
 
 ## 4. Legal Bases
 
-Where cloud use is optional, processing is based on your consent or on your active use of the cloud-supported features. In addition, certain processing operations may be necessary for contract performance, secure operation, or compliance with legal obligations.
+Where cloud use is optional, processing is based in particular on your consent or on your deliberate request to use optional account-related cloud features. Processing that is strictly necessary for account administration, sign-in security, traceability of security-relevant events, or compliance with legal obligations may also be carried out for contract performance, secure operation, or compliance purposes.
 
 ## 5. Recipients and Services Used
 
-According to the current project status, Firebase services are used in particular for cloud features, such as authentication, database, functions, or technical operation support. Depending on technical necessity, processors or infrastructure operators may also be involved.
+According to the current project status, the following services are used in particular for cloud features:
+
+- Firebase Authentication / Google LLC for sign-in, account assignment, and authentication status
+- Cloud Firestore / Google LLC for account-related and status-related cloud data where required for account-based use
+- Cloud Functions for Firebase / Google LLC for server-side account, security, and operational logic
+- Google Sign-In or Sign in with Apple where you actively choose the respective sign-in method; in that context, authentication, account, and profile information may be transmitted to the providers involved
+
+Depending on the function used, UID, email address, display name, profile image, account and status data, technical session data, security events, and server-side validation or logging data may in particular be processed.
+
+Depending on the service, sign-in method, and technical infrastructure, processing may also take place outside the European Union or the European Economic Area. The concrete data processing, possible processor involvement, and any third-country transfers are governed by the privacy notices and contractual terms of the respective providers involved.
 
 ## 6. Storage Period
 
@@ -42,8 +53,28 @@ Cloud-related account data are stored only for as long as necessary for sign-in,
 
 Use of cloud features is voluntary. If you do not accept this notice, the app remains available in local solo mode. However, cloud features such as sign-in, account-related server-side processing, and account-linked use across multiple devices are not available.
 
+To the extent that cloud processing is based on your consent or on your deliberate use of optional cloud features, you may withdraw that consent at any time with effect for the future by signing out in the app and no longer using the cloud features. From that point onward, no further active account-related cloud use should take place. Processing lawfully carried out before such withdrawal remains unaffected.
+
+Further storage or processing may nevertheless remain necessary in individual cases where required for technical account administration, security purposes, abuse prevention, evidentiary purposes, or other legal obligations.
+
 ## 8. Relationship to the General Privacy Policy
 
 This Cloud Privacy Notice specifies the general Privacy Policy for account-related cloud functions. For local offline features, the general Privacy Policy continues to apply primarily. Separately enabled team and Pro features are additionally governed by the Pro Privacy Notice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

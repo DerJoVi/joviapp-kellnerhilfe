@@ -1,11 +1,13 @@
 ﻿# Pro-Datenschutzhinweise für die JoVi-App
 
 Rechtsversion: 2026-06-06.pro.v1
-Geprüft für App-Version: 2.1.6+261570919
+Geprüft für App-Version: 2.1.8+261601438
 
 Stand: 06.06.2026
 
 ## 1. Zweck dieser Pro-Datenschutzhinweise
+
+Diese Pro-Datenschutzhinweise ergänzen die allgemeine Datenschutzerklärung sowie die Cloud-Datenschutzhinweise der JoVi-App für kostenpflichtige Pro-Funktionen, Teamfunktionen und Abonnements. Sie gelten insbesondere für Freischaltung, Rechteprüfung, Teambetrieb, Synchronisierung und die damit verbundene serverseitige Verarbeitung.
 ## 2. Kategorien verarbeiteter Daten
 
 Bei Nutzung von Pro-Funktionen können insbesondere folgende Daten verarbeitet werden:
@@ -34,11 +36,19 @@ Die Verarbeitung erfolgt insbesondere, um:
 
 ## 4. Empfänger und Plattformbezug
 
-Für Pro-Funktionen können Daten mit dem jeweiligen App-Store, Zahlungs- oder Verifikationskontext sowie mit den in der App eingesetzten Backend-Diensten verarbeitet werden, soweit dies für Kaufabwicklung, Rechteprüfung, Teambetrieb, Synchronisierung oder Missbrauchsabwehr technisch erforderlich ist.
+Für Pro-Funktionen können Daten insbesondere mit folgenden Empfängern oder Dienstekategorien verarbeitet werden, soweit dies für Kaufabwicklung, Rechteprüfung, Teambetrieb, Synchronisierung oder Missbrauchsabwehr technisch erforderlich ist:
+
+- dem jeweiligen App-Store oder Plattformanbieter, insbesondere Google Play oder Apple App Store, für Kaufabwicklung, Abonnementverwaltung, Wiederherstellung und Store-seitige Statusinformationen
+- den in der App eingesetzten Firebase-Backend-Diensten von Google LLC, insbesondere Firebase Authentication, Cloud Firestore und Cloud Functions, für Kontozuordnung, Rechteprüfung, Teamverwaltung, Synchronisierung sowie serverseitige Verifikation
+- technischen Verifikations- und Infrastrukturkontexten, soweit Kaufbelege, Token, Receipt-Daten oder vergleichbare Nachweise verarbeitet und serverseitig geprüft werden
+
+Dabei können insbesondere Produkt- und Tarifkennungen, kaufbezogene Kennungen, Receipt- oder Token-Daten, Kontozuordnungen, Team- und Rollendaten, Synchronisationsdaten, technische Prüfprotokolle sowie Aktivierungs-, Verlängerungs-, Ablauf- oder Wiederherstellungsinformationen verarbeitet werden.
+
+Je nach App-Store, Plattform, Backend-Dienst und technischer Infrastruktur kann eine Verarbeitung auch außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums stattfinden. Maßgeblich für die konkrete Datenverarbeitung und etwaige Drittlandübermittlungen bleiben die Datenschutzinformationen und Vertragsbedingungen der jeweils beteiligten Anbieter.
 
 ## 5. Rechtsgrundlagen
 
-Die Verarbeitung erfolgt insbesondere zur Durchführung des kostenpflichtigen Nutzungsverhältnisses, zur Erfüllung rechtlicher Pflichten, zur Sicherstellung eines sicheren Betriebs sowie ergänzend auf Basis Ihrer aktiv ausgelösten Nutzung von Pro-Funktionen.
+Die Verarbeitung erfolgt insbesondere zur Durchführung des kostenpflichtigen Nutzungsverhältnisses, zur Abwicklung des Abonnements und der Rechteprüfung, zur Erfüllung rechtlicher Pflichten sowie zur Sicherstellung eines sicheren Betriebs. Soweit einzelne Verarbeitungsschritte im Pro-Kontext über das für das kostenpflichtige Nutzungsverhältnis zwingend Erforderliche hinausgehen und an optionale cloudgestützte Nutzung anknüpfen, kann die Verarbeitung ergänzend auch auf Ihrer Einwilligung oder Ihrer bewusst ausgelösten Aktivierung und Nutzung dieser optionalen Funktionen beruhen.
 
 ## 6. Speicherdauer
 
@@ -61,8 +71,28 @@ Maßgeblich bleibt stets die technische Erforderlichkeit des jeweiligen Datentyp
 
 Wenn Sie diese Pro-Datenschutzhinweise nicht akzeptieren, können kostenpflichtige Pro-Funktionen, Teamfunktionen und sonstige kollaborative Pro-Leistungen nicht aktiviert oder auf diesem Gerät nicht lokal bestätigt werden. Die kostenlose Basisnutzung der App bleibt hiervon unberührt.
 
+Soweit einzelne Verarbeitungsvorgänge im Pro-Kontext auf Ihrer Einwilligung oder Ihrer aktiv ausgelösten optionalen Nutzung beruhen, können Sie eine entsprechende Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie sich in der App abmelden und Pro- bzw. Cloud-Funktionen nicht weiter nutzen. Dadurch endet die zukünftige einwilligungsbasierte Nutzung, nicht jedoch automatisch jede sonstige zulässige Verarbeitung im Zusammenhang mit einem bestehenden oder bereits abgewickelten Pro-Nutzungsverhältnis.
+
+Unberührt bleiben insbesondere Verarbeitungen, die weiterhin für Vertragsdurchführung, Abrechnung, Nachweisführung, Rechteprüfung, Sicherheitszwecke, Missbrauchsabwehr, gesetzliche Aufbewahrungspflichten oder die technische Abwicklung bestehender Team- und Berechtigungszustände erforderlich sind.
+
 ## 8. Verhältnis zu anderen Datenschutzhinweisen
 
 Diese Pro-Datenschutzhinweise konkretisieren die allgemeine Datenschutzerklärung für kostenpflichtige Pro-Funktionen. Soweit zusätzlich Cloud-Funktionen genutzt werden, gelten daneben auch die Cloud-Datenschutzhinweise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

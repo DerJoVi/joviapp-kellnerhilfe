@@ -1,11 +1,13 @@
 ﻿# Pro Privacy Notice for the JoVi App
 
 Legal version: 2026-06-06.pro.v1
-Approved for app version: 2.1.6+261570919
+Approved for app version: 2.1.8+261601438
 
 Version date: 06.06.2026
 
 ## 1. Purpose of This Pro Privacy Notice
+
+This Pro Privacy Notice supplements the general Privacy Policy and the Cloud Privacy Notice of the JoVi App for paid Pro features, team features, and subscriptions. It applies in particular to activation, entitlement verification, team operation, synchronization, and the related server-side processing.
 ## 2. Categories of Processed Data
 
 When Pro features are used, the following data may in particular be processed:
@@ -34,11 +36,19 @@ Processing is carried out in particular in order to:
 
 ## 4. Recipients and Platform Context
 
-For Pro features, data may be processed with the respective app store, payment or verification context, and the backend services used by the app where technically necessary for purchase handling, entitlement verification, team operation, synchronization, or abuse prevention.
+For Pro features, data may in particular be processed with the following recipients or service categories where technically necessary for purchase handling, entitlement verification, team operation, synchronization, or abuse prevention:
+
+- the relevant app store or platform provider, in particular Google Play or the Apple App Store, for purchase handling, subscription management, restoration, and store-side status information
+- the Firebase backend services used by the app and provided by Google LLC, in particular Firebase Authentication, Cloud Firestore, and Cloud Functions, for account assignment, entitlement verification, team management, synchronization, and server-side validation
+- technical verification and infrastructure contexts where purchase receipts, tokens, receipt data, or comparable proof records are processed and checked on the server side
+
+In this context, product and plan identifiers, purchase-related identifiers, receipt or token data, account assignments, team and role data, synchronization data, technical validation logs, and activation, renewal, expiry, or restoration information may in particular be processed.
+
+Depending on the app store, platform, backend service, and technical infrastructure, processing may also take place outside the European Union or the European Economic Area. The concrete data processing and any third-country transfers are governed by the privacy information and contractual terms of the respective providers involved.
 
 ## 5. Legal Bases
 
-Processing is carried out in particular for the performance of the paid usage relationship, compliance with legal obligations, ensuring secure operation, and additionally on the basis of your active use of Pro features.
+Processing is carried out in particular for the performance of the paid usage relationship, for subscription handling and entitlement verification, for compliance with legal obligations, and for ensuring secure operation. Where individual Pro-related processing steps go beyond what is strictly necessary for the paid usage relationship and depend on optional cloud-supported use, processing may additionally be based on your consent or your deliberate activation and use of those optional functions.
 
 ## 6. Storage Period
 
@@ -61,8 +71,28 @@ The decisive factor always remains the technical necessity of the respective dat
 
 If you do not accept this Pro Privacy Notice, paid Pro features, team features, and other collaborative Pro services cannot be activated or locally confirmed on this device. Free base use of the app remains unaffected.
 
+To the extent that individual Pro-related processing operations are based on your consent or on your deliberate use of optional functions, you may withdraw such consent at any time with effect for the future by signing out in the app and no longer using Pro or cloud features. This ends future consent-based use, but does not automatically terminate every other permissible processing activity connected to an existing or already completed Pro usage relationship.
+
+This does not affect processing that remains necessary for contract performance, billing, evidentiary records, entitlement verification, security purposes, abuse prevention, statutory retention obligations, or the technical handling of existing team and entitlement states.
+
 ## 8. Relationship to Other Privacy Notices
 
 This Pro Privacy Notice specifies the general Privacy Policy for paid Pro features. Where cloud features are also used, the Cloud Privacy Notice applies in addition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

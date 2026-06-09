@@ -1,11 +1,13 @@
 ﻿# Cloud Terms for the JoVi App
 
 Legal version: 2026-06-06.cloud.v1
-Approved for app version: 2.1.6+261570919
+Approved for app version: 2.1.8+261601438
 
 Version date: 06.06.2026
 
 ## 1. Purpose of These Cloud Terms
+
+These Cloud Terms supplement the Base Terms of the JoVi App for all account-related cloud features. They apply in particular to sign-in, account-related server-side processing, and cross-device use with the same eligible user account.
 ## 2. Covered Cloud Features
 
 Depending on the enabled feature set, cloud features may include in particular:
@@ -46,5 +48,21 @@ You can stop using cloud features at any time by signing out and no longer using
 ## 8. Relationship to the Base Terms
 
 These Cloud Terms do not replace the general Terms of Use, but specify them for account-related cloud functions such as sign-in and server-side account processing. Separately enabled team and Pro features are additionally governed by the Pro Terms. If conflicts arise only for cloud use, these Cloud Terms take precedence for that scope.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,7 +1,7 @@
 ﻿# Terms of Use for the JoVi App
 
 Legal version: 2026-06-06.base.v1
-Approved for app version: 2.1.6+261570919
+Approved for app version: 2.1.8+261601438
 
 Version date: 06.06.2026
 
@@ -17,7 +17,7 @@ Email: developer.joviapp@gmail.com
 
 These Base Terms apply to the general local use of the JoVi App without enabled cloud or Pro features. They cover in particular solo use on the end device, local data handling, and generally available export, open, share, help, and scan functions.
 
-Separate Cloud Terms additionally apply to sign-in, team synchronization, and server-supported collaboration. Separate Pro Terms additionally apply to paid Pro features and subscriptions.
+Separate Cloud Terms additionally apply to cloud features such as sign-in. Separate Pro Terms additionally apply to paid Pro features and subscriptions such as team synchronization and server-supported collaboration. From a technical perspective, Pro features are always also cloud features.
 
 ## 3. Base Services of the App
 
@@ -42,29 +42,18 @@ You may use the app only in compliance with statutory law and these Terms of Use
 - entering, processing, or distributing unlawful content
 - using the app in a manner that impairs the technical stability of the app or integrated services
 
-## 5. Restriction and Termination of Use
+## 5. Responsibility for Content and Operational Use
 
-The provider is entitled to temporarily restrict, block, or extraordinarily terminate access to individual functions or to the app as a whole if there are concrete indications that users violate these Terms of Use, statutory law, rights of third parties, or security and protection mechanisms of the app.
+You are responsible for the content you enter, modify, export, or share yourself. This applies in particular to:
 
-This applies in particular in the event of abusive use, manipulation attempts, unauthorized access attempts, circumvention of technical protection measures, unlawful content, or other actions that may impair the stability, security, or integrity of the app or integrated services.
-
-If reasonable, the user will be informed before a permanent measure is taken. This does not apply if an immediate block or restriction is required for security reasons, to prevent abuse, to avoid damage, or to fulfill legal obligations.
-
-Statutory claims and the right to take further action remain unaffected.
-
-## 6. Responsibility for Content and Operational Use
-
-You are solely responsible for the content you enter, share, export, or otherwise process in the team context. This applies in particular to:
-
-- team names
-- display names and initials
+- menu contents
 - order and payment data
 - notes and other free-text entries
 - exported or shared files
 
 If you use the app within a business, club, or other organization, you are responsible for ensuring that the use is legally permissible within your sphere of responsibility. This especially concerns data protection, labor, tax, bookkeeping, or retention obligations.
 
-## 9. User Entries, Statistics, Exports, and Generated Content
+## 6. User Entries, Statistics, Exports, and Generated Content
 
 The app processes, stores, visualizes, and exports only those data that are entered, imported, confirmed, changed, or otherwise processed within the app by users. The provider does not assume any warranty or guarantee that the data entered by users or processed within the app are correct, complete, truthful, current, or free of contradictions.
 
@@ -129,7 +118,15 @@ You are responsible for regularly backing up important data. The provider is onl
 
 Information on the processing of personal data can be found in the separate Privacy Policy of the JoVi App.
 
-## 12. Changes to These Base Terms
+## 12. Online Dispute Resolution and Consumer Dispute Resolution
+
+The European Commission provides an online dispute resolution platform:
+
+https://ec.europa.eu/consumers/odr/
+
+The provider is neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
+
+## 13. Changes to These Base Terms
 
 The provider may amend these Terms of Use for the future if factual reasons require it, in particular in the event of:
 
@@ -140,13 +137,28 @@ The provider may amend these Terms of Use for the future if factual reasons requ
 
 Users should be informed of material changes in an appropriate manner.
 
-## 13. Final Provisions
+## 14. Final Provisions
 
 The law of the Federal Republic of Germany applies, excluding the UN Convention on Contracts for the International Sale of Goods, unless mandatory consumer protection provisions provide otherwise.
 
 If the user is a merchant, a legal entity under public law, or a special fund under public law, the place of jurisdiction is the provider's registered office, to the extent permitted by law.
 
 Should any provision of these Terms of Use be or become wholly or partially invalid, the validity of the remaining provisions shall remain unaffected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

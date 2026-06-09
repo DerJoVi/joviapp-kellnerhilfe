@@ -1,11 +1,13 @@
 ﻿# Cloud-Datenschutzhinweise für die JoVi-App
 
 Rechtsversion: 2026-06-06.cloud.v1
-Geprüft für App-Version: 2.1.6+261570919
+Geprüft für App-Version: 2.1.8+261601438
 
 Stand: 06.06.2026
 
 ## 1. Zweck dieser Cloud-Datenschutzhinweise
+
+Diese Cloud-Datenschutzhinweise ergänzen die allgemeine Datenschutzerklärung der JoVi-App für alle kontobezogenen Cloud-Funktionen. Sie gelten insbesondere für Anmeldung, kontobezogene Serververarbeitung und die geräteübergreifende Nutzung mit demselben berechtigten Benutzerkonto.
 ## 2. Kategorien verarbeiteter Daten
 
 Bei Nutzung von Cloud-Funktionen können insbesondere folgende Daten verarbeitet werden:
@@ -28,11 +30,20 @@ Die Verarbeitung erfolgt insbesondere, um:
 
 ## 4. Rechtsgrundlagen
 
-Soweit die Cloud-Nutzung optional ist, erfolgt die Verarbeitung auf Grundlage Ihrer Einwilligung bzw. der von Ihnen aktiv ausgelösten Nutzung der Cloud-Funktionen. Zusätzlich können einzelne Verarbeitungsvorgänge zur Vertragserfüllung, zur Gewährleistung des sicheren Betriebs oder zur Erfüllung rechtlicher Pflichten erforderlich sein.
+Soweit die Cloud-Nutzung optional ist, erfolgt die Verarbeitung insbesondere auf Grundlage Ihrer Einwilligung oder Ihrer bewusst ausgelösten Nutzung optionaler kontobezogener Cloud-Funktionen. Verarbeitungsvorgänge, die für Kontoverwaltung, Anmeldesicherheit, Nachvollziehbarkeit sicherheitsrelevanter Ereignisse oder rechtliche Pflichten zwingend erforderlich sind, können zusätzlich zur Vertragserfüllung, zur Gewährleistung des sicheren Betriebs oder zur Erfüllung rechtlicher Pflichten erfolgen.
 
 ## 5. Empfänger und eingesetzte Dienste
 
-Nach dem aktuellen Projektstand werden für Cloud-Funktionen insbesondere Dienste von Firebase eingesetzt, etwa für Authentifizierung, Datenbank, Funktionen oder technische Betriebsunterstützung. Je nach technischer Notwendigkeit können dabei auch Auftragsverarbeiter oder Infrastrukturbetreiber eingebunden sein.
+Nach dem aktuellen Projektstand werden für Cloud-Funktionen insbesondere folgende Dienste eingesetzt:
+
+- Firebase Authentication / Google LLC für Anmeldung, Kontozuordnung und Authentifizierungsstatus
+- Cloud Firestore / Google LLC für konto- und statusbezogene Cloud-Daten, soweit diese für die kontobezogene Nutzung erforderlich sind
+- Cloud Functions for Firebase / Google LLC für serverseitige Konto-, Sicherheits- und Betriebslogik
+- Google Sign-In bzw. Sign in with Apple, soweit Sie die jeweilige Anmeldemethode aktiv verwenden; dabei können Authentifizierungs-, Konto- und Profilinformationen an die jeweils beteiligten Anbieter übermittelt werden
+
+Dabei können je nach Funktion insbesondere UID, E-Mail-Adresse, Anzeigename, Profilbild, Konto- und Statusdaten, technische Sitzungsdaten, Sicherheitsereignisse sowie serverseitige Prüf- und Protokolldaten verarbeitet werden.
+
+Je nach Dienst, Login-Methode und technischer Infrastruktur kann eine Verarbeitung auch außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums stattfinden. Maßgeblich für die konkrete Datenverarbeitung, eine mögliche Auftragsverarbeitung sowie etwaige Drittlandübermittlungen bleiben die Datenschutzinformationen und Vertragsbedingungen der jeweils beteiligten Anbieter.
 
 ## 6. Speicherdauer
 
@@ -42,8 +53,28 @@ Cloudbezogene Kontodaten werden nur so lange gespeichert, wie dies für Anmeldun
 
 Die Cloud-Nutzung ist freiwillig. Wenn Sie diese Hinweise nicht akzeptieren, bleibt die App im lokalen Solo-Modus weiter nutzbar. Cloud-Funktionen wie Anmeldung, kontobezogene Serververarbeitung und kontogebundene Nutzung auf mehreren Geräten stehen dann jedoch nicht zur Verfügung.
 
+Soweit die Cloud-Verarbeitung auf Ihrer Einwilligung oder Ihrer aktiv ausgelösten optionalen Cloud-Nutzung beruht, können Sie diese Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie sich in der App abmelden und die Cloud-Funktionen nicht weiter nutzen. Ab diesem Zeitpunkt soll keine weitere aktive kontobezogene Cloud-Nutzung mehr stattfinden. Bereits zuvor rechtmäßig erfolgte Verarbeitungen bleiben hiervon unberührt.
+
+Eine weitere Speicherung oder Verarbeitung kann im Einzelfall dennoch erforderlich bleiben, soweit dies für die technische Kontoverwaltung, Sicherheitszwecke, Missbrauchsabwehr, Nachweispflichten oder sonstige rechtliche Verpflichtungen notwendig ist.
+
 ## 8. Verhältnis zur allgemeinen Datenschutzerklärung
 
 Diese Cloud-Datenschutzhinweise konkretisieren die allgemeine Datenschutzerklärung für kontobezogene Cloud-Funktionen. Für lokale Offline-Funktionen gilt weiterhin primär die allgemeine Datenschutzerklärung. Für gesondert freigeschaltete Team- und Pro-Funktionen gelten zusätzlich die Pro-Datenschutzhinweise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

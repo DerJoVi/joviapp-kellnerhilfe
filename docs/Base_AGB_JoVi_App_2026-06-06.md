@@ -1,7 +1,7 @@
 ﻿# Allgemeine Geschäftsbedingungen für die JoVi-App
 
 Rechtsversion: 2026-06-06.base.v1
-Geprüft für App-Version: 2.1.6+261570919
+Geprüft für App-Version: 2.1.8+261601438
 
 Stand: 06.06.2026
 
@@ -17,7 +17,7 @@ E-Mail: developer.joviapp@gmail.com
 
 Diese Basis-AGB gelten für die allgemeine, lokale Nutzung der JoVi-App ohne aktivierte Cloud- oder Pro-Funktionen. Sie erfassen insbesondere den Solo-Betrieb auf dem Endgerät, lokale Datenhaltung sowie allgemein verfügbare Export-, Öffnen-, Teilen-, Hilfe- und Scan-Funktionen.
 
-Für Cloud-Funktionen wie Anmeldung, Team-Synchronisierung und servergestützte Zusammenarbeit gelten zusätzlich separate Cloud-Nutzungsbedingungen. Für kostenpflichtige Pro-Funktionen und Abonnements gelten zusätzlich separate Pro-Nutzungsbedingungen.
+Für Cloud-Funktionen wie Anmeldung gelten zusätzlich separate Cloud-Nutzungsbedingungen. Für kostenpflichtige Pro-Funktionen und Abonnements wie etwa Team-Synchronisierung und servergestützte Zusammenarbeit gelten zusätzlich separate Pro-Nutzungsbedingungen. Pro-Funktionen sind technisch gesehen immer auch Cloud-Funktionen.
 
 ## 3. Leistungen der Basisnutzung
 
@@ -118,7 +118,15 @@ Sie sind selbst dafür verantwortlich, wichtige Daten regelmäßig zu sichern. F
 
 Informationen zur Verarbeitung personenbezogener Daten finden Sie in der gesonderten Datenschutzerklärung der JoVi-App.
 
-## 12. Änderungen dieser Basis-AGB
+## 12. Online-Streitbeilegung und Verbraucherschlichtung
+
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
+
+https://ec.europa.eu/consumers/odr/
+
+Der Anbieter ist weder verpflichtet noch bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+## 13. Änderungen dieser Basis-AGB
 
 Der Anbieter kann diese AGB mit Wirkung für die Zukunft anpassen, wenn sachliche Gründe dies erfordern, insbesondere bei:
 
@@ -129,13 +137,28 @@ Der Anbieter kann diese AGB mit Wirkung für die Zukunft anpassen, wenn sachlich
 
 Über wesentliche Änderungen sollen Nutzer in geeigneter Weise informiert werden.
 
-## 13. Schlussbestimmungen
+## 14. Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
 
 Ist der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist Gerichtsstand der Sitz des Anbieters, soweit gesetzlich zulässig.
 
 Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

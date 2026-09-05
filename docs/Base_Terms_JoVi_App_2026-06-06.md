@@ -1,9 +1,9 @@
 ﻿# Terms of Use for the JoVi App
 
-Legal version: 2026-06-06.base.v1
-Approved for app version: 2.1.8+261601438
+Legal version: 2026-09-04.base.v2
+Approved for app version: 2.5.1+262471233
 
-Version date: 06.06.2026
+Version date: 04.09.2026
 
 ## 1. Provider
 
@@ -27,6 +27,8 @@ Depending on the locally available feature set, the app may in particular provid
 
 - local management of menus, table orders, and payment data
 - local statistics and evaluations based on entered data
+- use of the Module: Accounting for personal or team-internal evaluations
+- local creation of PDF and Excel/XLSX files from those evaluations
 - export, import, sharing, and opening of files
 - QR-based or camera-supported scan functions
 - access to help, community, and legal-text content
@@ -62,6 +64,8 @@ The responsibility for all entries, specifications, corrections, assignments, no
 The provider is not obliged to verify user entries, business transactions, orders, payments, revenues, cancellations, complimentary items, subsequent entries, stock movements, personnel actions, or other operational processes for factual correctness, completeness, plausibility, or consistency with actual circumstances.
 
 All statistics, key figures, evaluations, reports, summaries, overviews, logs, PDF, CSV, HTML, JSON, or other export files, as well as all other generated content displayed or created by the app, are based solely on the data stored in the app.
+
+The Module: Accounting can create PDF or Excel/XLSX files locally on the device from personal or team-internal evaluation data. Creating the file alone does not transmit the data to the provider. The user is responsible for any subsequent saving, opening, or sharing and for selecting the relevant target app or file location.
 
 The provider assumes no warranty or guarantee for the factual, mathematical, commercial, operational, tax, accounting, legal, or other professional correctness, completeness, timeliness, reliability, usability, or suitability of such content for a specific purpose.
 
@@ -144,6 +148,85 @@ The law of the Federal Republic of Germany applies, excluding the UN Convention 
 If the user is a merchant, a legal entity under public law, or a special fund under public law, the place of jurisdiction is the provider's registered office, to the extent permitted by law.
 
 Should any provision of these Terms of Use be or become wholly or partially invalid, the validity of the remaining provisions shall remain unaffected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

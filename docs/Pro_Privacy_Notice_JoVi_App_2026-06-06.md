@@ -1,9 +1,9 @@
 ﻿# Pro Privacy Notice for the JoVi App
 
-Legal version: 2026-06-06.pro.v1
-Approved for app version: 2.1.8+261601438
+Legal version: 2026-09-04.pro.v2
+Approved for app version: 2.5.1+262471233
 
-Version date: 06.06.2026
+Version date: 04.09.2026
 
 ## 1. Purpose of This Pro Privacy Notice
 
@@ -19,6 +19,9 @@ When Pro features are used, the following data may in particular be processed:
 - assignment of an entitlement to a user account or device
 - team and membership data such as team name, roles, status, and join or leave timestamps
 - jointly edited menu, order, statistics, and activity data in the team context
+- table layouts and team-related layout configurations
+- personal or team-internal evaluation data from the Module: Accounting and locally generated PDF and Excel/XLSX files
+- messages, actors, timestamps, and team assignments in technical activity log entries
 - technical entitlement, role, and synchronization data for collaborative Pro features
 - technical validation and logging data for entitlement management and abuse prevention, including in particular submission, processing, and validation timestamps, processing states, error categories, error details, and platform or source information
 
@@ -31,6 +34,7 @@ Processing is carried out in particular in order to:
 - keep subscription status up to date
 - manage teams, roles, and permissions in the Pro context
 - synchronize shared working states between Pro members
+- provide team menus, orders, table layouts, activity logs, and the Module: Accounting
 - handle support, abuse, or reversal cases
 - retain records for entitlement management and secure product delivery
 
@@ -65,6 +69,8 @@ According to the currently implemented technical setup, the following retention 
 - technical purchase-token or comparable mapping data are generally retained for up to 365 days after the last relevant activity or inactive marking
 - inactive user accounts without an active Pro subscription may generally be deleted if no relevant activity has been detected for at least 12 months; an additional technical safety buffer of 7 days applies to expired subscriptions
 
+PDF and Excel/XLSX files of the Module: Accounting are generally created locally on the device. Any further storage or processing depends on the file location, target app, or sharing function selected by the user.
+
 The decisive factor always remains the technical necessity of the respective data type. Where legal obligations, ongoing disputes, abuse prevention, or security interests require longer retention, storage may exceed these periods in individual cases.
 
 ## 7. Consequences of Non-Acceptance
@@ -78,6 +84,85 @@ This does not affect processing that remains necessary for contract performance,
 ## 8. Relationship to Other Privacy Notices
 
 This Pro Privacy Notice specifies the general Privacy Policy for paid Pro features. Where cloud features are also used, the Cloud Privacy Notice applies in addition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

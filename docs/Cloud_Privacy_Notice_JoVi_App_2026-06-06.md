@@ -1,9 +1,9 @@
 ﻿# Cloud Privacy Notice for the JoVi App
 
-Legal version: 2026-06-06.cloud.v1
-Approved for app version: 2.1.8+261601438
+Legal version: 2026-09-04.cloud.v2
+Approved for app version: 2.5.1+262471233
 
-Version date: 06.06.2026
+Version date: 04.09.2026
 
 ## 1. Purpose of This Cloud Privacy Notice
 
@@ -60,6 +60,85 @@ Further storage or processing may nevertheless remain necessary in individual ca
 ## 8. Relationship to the General Privacy Policy
 
 This Cloud Privacy Notice specifies the general Privacy Policy for account-related cloud functions. For local offline features, the general Privacy Policy continues to apply primarily. Separately enabled team and Pro features are additionally governed by the Pro Privacy Notice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

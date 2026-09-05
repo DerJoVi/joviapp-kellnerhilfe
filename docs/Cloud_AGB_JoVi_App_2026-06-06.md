@@ -1,9 +1,9 @@
 ﻿# Cloud-Nutzungsbedingungen für die JoVi-App
 
-Rechtsversion: 2026-06-06.cloud.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.cloud.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Zweck dieser Cloud-Nutzungsbedingungen
 
@@ -48,6 +48,85 @@ Sie können die Cloud-Nutzung jederzeit beenden, indem Sie sich abmelden und die
 ## 8. Verhältnis zur Basisnutzung
 
 Diese Cloud-Nutzungsbedingungen ersetzen nicht die allgemeinen AGB, sondern konkretisieren sie für kontobezogene Cloud-Funktionen wie Anmeldung und serverseitige Kontoverarbeitung. Für gesondert freigeschaltete Team- und Pro-Funktionen gelten zusätzlich die Pro-Nutzungsbedingungen. Soweit Widersprüche nur für die Cloud-Nutzung bestehen, gehen diese Cloud-Nutzungsbedingungen für diesen Teilbereich vor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

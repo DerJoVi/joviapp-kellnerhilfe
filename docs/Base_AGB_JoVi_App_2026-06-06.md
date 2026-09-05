@@ -1,9 +1,9 @@
 ﻿# Allgemeine Geschäftsbedingungen für die JoVi-App
 
-Rechtsversion: 2026-06-06.base.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.base.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Anbieter
 
@@ -27,6 +27,8 @@ Je nach lokal verfügbarem Funktionsumfang kann die App insbesondere folgende Le
 
 - lokale Verwaltung von Menüs, Tischbestellungen und Zahlungsdaten
 - lokale Statistiken und Auswertungen auf Grundlage der eingegebenen Daten
+- Nutzung des Moduls: Abrechnung für persönliche oder teaminterne Auswertungen
+- lokale Erstellung von PDF- und Excel/XLSX-Dateien aus diesen Auswertungen
 - Export, Import, Teilen und Öffnen von Dateien
 - QR- oder kameragestützte Scan-Funktionen
 - Zugriff auf Hilfs-, Community- und Rechtstext-Inhalte
@@ -62,6 +64,8 @@ Die Verantwortung für alle Eingaben, Angaben, Korrekturen, Zuordnungen, Notizen
 Der Anbieter ist nicht verpflichtet, Nutzereingaben, Geschäftsvorgänge, Bestellungen, Zahlungen, Umsätze, Stornos, Gratisabgaben, Nachträge, Lagerbewegungen, Personalhandlungen oder sonstige betriebliche Vorgänge auf sachliche Richtigkeit, Vollständigkeit, Plausibilität oder Übereinstimmung mit den tatsächlichen Verhältnissen zu prüfen.
 
 Sämtliche durch die App angezeigten oder erzeugten Statistiken, Kennzahlen, Auswertungen, Berichte, Zusammenfassungen, Übersichten, Protokolle, PDF-, CSV-, HTML-, JSON- oder sonstigen Exportdateien sowie alle sonstigen generierten Inhalte beruhen ausschließlich auf den in der App vorhandenen Datenbeständen.
+
+Das Modul: Abrechnung kann aus persönlichen oder teaminternen Auswertungsdaten auf dem Endgerät PDF- oder Excel/XLSX-Dateien erstellen. Die Dateierstellung allein übermittelt die Daten nicht an den Anbieter. Für das anschließende Speichern, Öffnen oder Teilen sowie für die Auswahl der jeweiligen Ziel-App oder Dateiablage ist der Nutzer verantwortlich.
 
 Der Anbieter übernimmt keine Gewähr und keine Garantie für die sachliche, rechnerische, kaufmännische, betriebliche, steuerliche, buchhalterische, rechtliche oder sonstige fachliche Richtigkeit, Vollständigkeit, Aktualität, Belastbarkeit, Verwertbarkeit oder Eignung dieser Inhalte für einen bestimmten Zweck.
 
@@ -144,6 +148,85 @@ Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrec
 Ist der Nutzer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist Gerichtsstand der Sitz des Anbieters, soweit gesetzlich zulässig.
 
 Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

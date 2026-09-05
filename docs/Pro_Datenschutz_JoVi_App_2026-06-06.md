@@ -1,9 +1,9 @@
 ﻿# Pro-Datenschutzhinweise für die JoVi-App
 
-Rechtsversion: 2026-06-06.pro.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.pro.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Zweck dieser Pro-Datenschutzhinweise
 
@@ -19,6 +19,9 @@ Bei Nutzung von Pro-Funktionen können insbesondere folgende Daten verarbeitet w
 - Zuordnung einer Berechtigung zu einem Benutzerkonto oder Gerät
 - Team- und Mitgliedschaftsdaten wie Teamname, Rollen, Status sowie Beitritts- oder Austrittszeitpunkte
 - gemeinsam bearbeitete Menü-, Bestell-, Statistik- und Aktivitätsdaten im Teamkontext
+- Tischlayouts und teambezogene Layout-Konfigurationen
+- persönliche oder teaminterne Auswertungsdaten des Moduls: Abrechnung sowie daraus erzeugte lokale PDF- und Excel/XLSX-Dateien
+- Nachrichten, Bearbeiter, Zeitpunkte und Teamzuordnungen in technischen Activity-Log-Einträgen
 - technische Berechtigungs-, Rollen- und Synchronisationsdaten für kollaborative Pro-Funktionen
 - technische Prüf- und Protokolldaten zur Rechteverwaltung und Missbrauchsabwehr, insbesondere Einreichungs-, Verarbeitungs- und Validierungszeitpunkte, Verarbeitungsstatus, Fehlerkategorien, Fehlerdetails sowie Plattform- und Quelleninformationen
 
@@ -31,6 +34,7 @@ Die Verarbeitung erfolgt insbesondere, um:
 - Abonnementstatus aktuell zu halten
 - Teams, Rollen und Berechtigungen im Pro-Kontext zu verwalten
 - gemeinsame Arbeitsstände zwischen Pro-Mitgliedern zu synchronisieren
+- Team-Menüs, Bestellungen, Tischlayouts, Activity-Logs und das Modul: Abrechnung bereitzustellen
 - Support-, Missbrauchs- oder Rückabwicklungsfälle bearbeiten zu können
 - Nachweise für Rechteverwaltung und sichere Produktbereitstellung vorzuhalten
 
@@ -65,6 +69,8 @@ Nach dem aktuell umgesetzten technischen Stand gelten dabei insbesondere folgend
 - technische Purchase-Token- oder vergleichbare Zuordnungsdaten werden grundsätzlich bis zu 365 Tage nach der letzten maßgeblichen Aktivität oder Inaktivsetzung vorgehalten
 - inaktive Nutzerkonten ohne aktives Pro-Abonnement können grundsätzlich gelöscht werden, wenn seit mindestens 12 Monaten keine relevante Aktivität mehr festgestellt wurde; für abgelaufene Abonnements gilt zusätzlich ein technischer Sicherheits-Puffer von 7 Tagen
 
+PDF- und Excel/XLSX-Dateien des Moduls: Abrechnung werden durch die Dateierstellung grundsätzlich lokal auf dem Endgerät erzeugt. Eine weitere Speicherung oder Verarbeitung richtet sich nach der vom Nutzer ausgewählten Dateiablage, Ziel-App oder Freigabefunktion.
+
 Maßgeblich bleibt stets die technische Erforderlichkeit des jeweiligen Datentyps. Soweit gesetzliche Pflichten, laufende Streitfälle, Missbrauchsabwehr oder Sicherheitsinteressen eine längere Speicherung erfordern, kann die Speicherung im Einzelfall darüber hinausgehen.
 
 ## 7. Folgen der Nichtzustimmung
@@ -78,6 +84,85 @@ Unberührt bleiben insbesondere Verarbeitungen, die weiterhin für Vertragsdurch
 ## 8. Verhältnis zu anderen Datenschutzhinweisen
 
 Diese Pro-Datenschutzhinweise konkretisieren die allgemeine Datenschutzerklärung für kostenpflichtige Pro-Funktionen. Soweit zusätzlich Cloud-Funktionen genutzt werden, gelten daneben auch die Cloud-Datenschutzhinweise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

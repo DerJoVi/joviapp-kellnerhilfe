@@ -1,9 +1,9 @@
 ﻿# Privacy Policy for the JoVi App
 
-Legal version: 2026-06-06.base.v1
-Approved for app version: 2.1.8+261601438
+Legal version: 2026-09-04.base.v2
+Approved for app version: 2.5.1+262471233
 
-Version date: 06.06.2026
+Version date: 04.09.2026
 
 ## 1. Controller
 
@@ -41,7 +41,7 @@ As a rule, these data remain on your end device as long as you do not activate s
 The app offers export, import, download, open, and share functions. In this context, the following may in particular be processed or transferred to targets selected by you:
 
 - menu files in `.jovi` format
-- CSV, HTML, and PDF exports
+- CSV, HTML, PDF, and Excel/XLSX exports, in particular from the Module: Accounting
 - statistics files from locally available data sets
 
 If you use a share, open, or save function, data are transferred to the target app, file storage, or system function selected by you. From that point on, their data protection conditions additionally apply.
@@ -162,6 +162,85 @@ If you use the app in the context of a business, club, or other organization and
 Questions about data protection may be sent to:
 
 developer.joviapp@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

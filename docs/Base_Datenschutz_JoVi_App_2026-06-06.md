@@ -1,9 +1,9 @@
 ﻿# Datenschutzerklärung für die JoVi-App
 
-Rechtsversion: 2026-06-06.base.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.base.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Verantwortlicher
 
@@ -41,7 +41,7 @@ Diese Daten bleiben grundsätzlich auf Ihrem Endgerät, solange Sie keine gesond
 Die App bietet Export-, Import-, Download-, Öffnen- und Teilen-Funktionen. Dabei können insbesondere verarbeitet oder an von Ihnen ausgewählte Ziele übergeben werden:
 
 - Menüdateien im `.jovi`-Format
-- CSV-, HTML- und PDF-Exporte
+- CSV-, HTML-, PDF- und Excel/XLSX-Exporte, insbesondere aus dem Modul: Abrechnung
 - Statistikdateien aus lokal vorhandenen Datenbeständen
 
 Wenn Sie eine Teilen-, Öffnen- oder Speichern-Funktion verwenden, werden Daten an die von Ihnen ausgewählte Ziel-App, Dateiablage oder Systemfunktion übergeben. Ab diesem Zeitpunkt gelten zusätzlich deren Datenschutzbedingungen.
@@ -164,6 +164,85 @@ Wenn Sie die App im Rahmen eines Betriebs, Vereins oder einer sonstigen Organisa
 Fragen zum Datenschutz können an folgende Adresse gerichtet werden:
 
 developer.joviapp@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

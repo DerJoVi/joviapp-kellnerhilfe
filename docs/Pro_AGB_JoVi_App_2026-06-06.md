@@ -1,9 +1,9 @@
 ﻿# Pro-Nutzungsbedingungen für die JoVi-App
 
-Rechtsversion: 2026-06-06.pro.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.pro.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Zweck dieser Pro-Nutzungsbedingungen
 
@@ -16,10 +16,14 @@ Pro-Funktionen können je nach Angebot insbesondere Folgendes umfassen:
 - Teamverwaltung, Mitgliedschaften und Team-Modus
 - gemeinsame Menüs, Bestellungen, Aktivitätsprotokolle und teambezogene Synchronisierung
 - erweiterte teambezogene oder statistische Funktionen
+- das Modul: Abrechnung für persönliche oder teaminterne Auswertungen
+- lokale PDF- und Excel/XLSX-Exporte aus solchen Auswertungen
 - wiederkehrende Abonnements mit monatlicher oder jährlicher Laufzeit
 - geräteübergreifende Freischaltung desselben berechtigten Kontos, soweit technisch vorgesehen
 
 Ein Anspruch auf einen bestimmten Pro-Funktionsumfang besteht nur, soweit dieser ausdrücklich angeboten wurde.
+
+Teamfunktionen können insbesondere Teamnamen, Rollen, Mitgliedschaften, Beitritts- und Austrittsvorgänge, gemeinsame Menüs, Bestellungen, Tischlayouts, Aktivitätsprotokolle und Statistikdaten umfassen. Der jeweils berechtigte Nutzer ist für die Rechtmäßigkeit der von ihm eingetragenen personenbezogenen oder betrieblichen Inhalte verantwortlich.
 
 ## 3. Vertragsschluss und Store-Abwicklung
 
@@ -83,6 +87,85 @@ Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS
 https://ec.europa.eu/consumers/odr/
 
 Der Anbieter ist weder verpflichtet noch bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

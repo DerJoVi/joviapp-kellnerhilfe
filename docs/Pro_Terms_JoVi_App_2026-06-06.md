@@ -1,9 +1,9 @@
 ﻿# Pro Terms for the JoVi App
 
-Legal version: 2026-06-06.pro.v1
-Approved for app version: 2.1.8+261601438
+Legal version: 2026-09-04.pro.v2
+Approved for app version: 2.5.1+262471233
 
-Version date: 06.06.2026
+Version date: 04.09.2026
 
 ## 1. Purpose of These Pro Terms
 
@@ -20,6 +20,8 @@ Depending on the offer, Pro features may include in particular:
 - cross-device activation for the same eligible account where technically provided
 
 There is no entitlement to a specific Pro feature scope unless it has been expressly offered.
+
+Team features may include team names, roles, memberships, joining and leaving processes, shared menus, orders, table layouts, activity logs, and statistics. Each authorized user is responsible for the lawfulness of personal or operational content entered by that user.
 
 ## 3. Contract Formation and Store Handling
 
@@ -83,6 +85,85 @@ The European Commission provides an online dispute resolution platform:
 https://ec.europa.eu/consumers/odr/
 
 The provider is neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

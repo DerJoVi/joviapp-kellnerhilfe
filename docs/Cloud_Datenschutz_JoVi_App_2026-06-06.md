@@ -1,9 +1,9 @@
 ﻿# Cloud-Datenschutzhinweise für die JoVi-App
 
-Rechtsversion: 2026-06-06.cloud.v1
-Geprüft für App-Version: 2.1.8+261601438
+Rechtsversion: 2026-09-04.cloud.v2
+Geprüft für App-Version: 2.5.1+262471233
 
-Stand: 06.06.2026
+Stand: 04.09.2026
 
 ## 1. Zweck dieser Cloud-Datenschutzhinweise
 
@@ -60,6 +60,85 @@ Eine weitere Speicherung oder Verarbeitung kann im Einzelfall dennoch erforderli
 ## 8. Verhältnis zur allgemeinen Datenschutzerklärung
 
 Diese Cloud-Datenschutzhinweise konkretisieren die allgemeine Datenschutzerklärung für kontobezogene Cloud-Funktionen. Für lokale Offline-Funktionen gilt weiterhin primär die allgemeine Datenschutzerklärung. Für gesondert freigeschaltete Team- und Pro-Funktionen gelten zusätzlich die Pro-Datenschutzhinweise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

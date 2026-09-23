@@ -1,9 +1,9 @@
 ﻿{
-  "updatedAt": "2026-06-06T13:04:19Z",
+  "updatedAt": "2026-09-09T00:00:00Z",
   "content": [
     {
       "type": "section_header",
-      "order": 0,
+      "order": 20,
       "title_de": "Coming Soon - vielleicht ;-)",
       "title_en": "Coming Soon - maybe ;-)",
       "title_cs": "Již brzy - možná ;-)",
@@ -18,7 +18,7 @@
     },
     {
       "type": "coming_soon_item",
-      "order": 1,
+      "order": 21,
       "icon": "cloud_upload",
       "title_de": "Cloud basierte Menüs mit teilen",
       "title_en": "Cloud-based menus with sharing",
@@ -45,7 +45,7 @@
     },
     {
       "type": "coming_soon_item",
-      "order": 2,
+      "order": 22,
       "icon": "favorite",
       "title_de": "Likes vergeben",
       "title_en": "Give likes",
@@ -72,7 +72,7 @@
     },
     {
       "type": "coming_soon_item",
-      "order": 3,
+      "order": 23,
       "icon": "camera_alt",
       "title_de": "Speisekarten fotografieren",
       "title_en": "Photograph menu cards",
@@ -99,7 +99,7 @@
     },
     {
       "type": "section_header",
-      "order": 6,
+      "order": 24,
       "title_de": "Bis dahin hier noch ein paar Tipps:",
       "title_en": "In the meantime, here are some tips:",
       "title_cs": "Do té doby zde pár tipů:",
@@ -114,7 +114,7 @@
     },
     {
       "type": "section_header",
-      "order": 7,
+      "order": 30,
       "title_de": "Spezial Kniffe & Features",
       "title_en": "Special tricks & features",
       "title_cs": "Speciální triky & Funkce",
@@ -129,7 +129,7 @@
     },
     {
       "type": "youtube_embedded",
-      "order": 8,
+      "order": 1,
       "video_id": "NsEWJJNGewc",
       "title_de": "JoVi-App Kellnerhilfe Version 2: Endlich Team Zusammenarbeit",
       "title_en": "JoVi-App Waiter Helper Version 2: Finally Team Collaboration",
@@ -145,7 +145,7 @@
     },
     {
       "type": "youtube_embedded",
-      "order": 9,
+      "order": 2,
       "video_id": "KP_fYv77C4g",
       "title_de": "JoVi App - kurze Demo",
       "title_en": "JoVi App - quick demo",
@@ -161,7 +161,7 @@
     },
     {
       "type": "feature_card",
-      "order": 10,
+      "order": 31,
       "icon": "local_drink",
       "title_de": "Biermarken und Anrechnungswert",
       "title_en": "Beer tokens and redemption value",
@@ -199,7 +199,7 @@
     },
     {
       "type": "feature_card",
-      "order": 11,
+      "order": 32,
       "icon": "touch_app",
       "title_de": "Sonstige Bestellung (Long Press)",
       "title_en": "Custom Order (Long Press)",
@@ -237,7 +237,7 @@
     },
     {
       "type": "feature_card",
-      "order": 12,
+      "order": 33,
       "icon": "touch_app",
       "title_de": "Lange Drücken für Optionen",
       "title_en": "Long Press for Options",
@@ -275,7 +275,7 @@
     },
     {
       "type": "feature_card",
-      "order": 13,
+      "order": 34,
       "icon": "edit_note",
       "title_de": "Übersicht in der Statistik",
       "title_en": "Statistics Overview",
@@ -313,7 +313,7 @@
     },
     {
       "type": "feature_card",
-      "order": 14,
+      "order": 35,
       "icon": "payment",
       "title_de": "Bezahlung & Abrechnung",
       "title_en": "Payment & Settlement",
@@ -351,7 +351,7 @@
     },
     {
       "type": "feature_card",
-      "order": 16,
+      "order": 36,
       "icon": "share",
       "title_de": "Menüs Teilen",
       "title_en": "Share Menus",
@@ -386,6 +386,59 @@
       "details_pl": ["Przez kod QR: Zapisz obraz i udostępnij", "Skanuj kod QR: Menu importuje się automatycznie", "Przez dialog plików: Wybierz plik menu do udostępnienia", "Odbiorca importuje plik w \"Zarządzaniu menu\"", "Idealne do: Pomocy kolegom na innych festiwalach", "Proste udostępnianie standardowych menu"],
       "details_tr": ["QR kodu ile: Resmi kaydedin ve paylaşın", "QR kodu tara: Menü otomatik içe aktarılır", "Dosya iletişim kutusu ile: Paylaşmak için menü dosyasını seçin", "Alıcı \"Menü yönetimi\"nde dosyayı içe aktarır", "İdeal: Diğer şenliklerdeki meslektaşlara yardım", "Standart menülerin kolay senkronizasyonu"],
       "details_uk": ["Через QR-код: Зберегти зображення та поділитися", "Сканувати QR-код: Меню автоматично імпортується", "Через діалог файлів: Вибрати файл меню для надсилання", "Отримувач імпортує файл в \"Управлінні меню\"", "Ідеально для: Допомоги колегам на інших фестивалях", "Просте надсилання стандартних меню"]
+    },
+    {
+      "type": "section_header",
+      "order": 0,
+      "title_de": "Aktuelle Video-Anleitungen"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 3,
+      "video_id": "c85E5UizkCo",
+      "title_de": "Ende des Tages Abrechnung: JoVi-App hilf!"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 4,
+      "video_id": "2XgMNQ-2Ur0",
+      "title_de": "Neue Ansicht Bestellen Bildschirm - Claims (Übernahmen), Freigeben, nach Zeit sortieren"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 5,
+      "video_id": "boBadBFbUgM",
+      "title_de": "Tischlayout Editor 2"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 6,
+      "video_id": "4DcKnQknPWE",
+      "title_de": "Tischlayout Editor 1"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 7,
+      "video_id": "wEPsmVDqAfY",
+      "title_de": "Neuerungen Version 2.5! Tischlayout. Farben. Abrechnen. Eigene Kategorien"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 8,
+      "video_id": "D57Lnxh8NGM",
+      "title_de": "Eigene Kategorien und Färben"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 9,
+      "video_id": "hZ0vJchabRw",
+      "title_de": "Jovi App Youtube 02 Bestellungen Aufnehmen"
+    },
+    {
+      "type": "youtube_embedded",
+      "order": 10,
+      "video_id": "MonfogwSkig",
+      "title_de": "Jovi App Youtube 01 Speisekarte erstellen"
     }
   ]
 }
